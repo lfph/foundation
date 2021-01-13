@@ -91,6 +91,7 @@ representatives (one per Member per Governing Board and per Committee) to attend
 Governing Board. The Governing Board may invite guests to participate in
 consideration of specific Governing Board topics (but such guest may not participate
 in any vote on any matter before the Governing Board).
+	-	iv) Each Governing Board voting member may designate one individual as an alternate for Governing Board meetings. In the case of the TAC Chair, the alternate must also be a member of the TAC. An alternate may attend Governing Board meetings, either with, or in the absence of, the Governing Board voting member. The alternate will be able to vote in the absence of the Governing Board member, and shall be counted towards quorum of the Governing Board. An alternate may not hold or perform the duties of any Governing Board role (such as Chair of the Governing Board) on behalf of the Governing Board voting member. We recommend governing board members attend the majority of governing board meetings.
 
 -	d) Officers
 
