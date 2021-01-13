@@ -164,19 +164,19 @@ to the TAC by the Governing Board.
 	-	i) one representative appointed by each Premier Member; and
   
 	-	ii) one representative appointed by the technical oversight body (e.g., a technical
-steering committee) of each TAC Project (as defined herein).
+steering committee) of each Voting Project (as defined herein).
 
 -	c) One representative of any Member may observe meetings of the TAC. Any committers
 from a TAC Project may observe meetings of the TAC. The TAC may change this at any
 point in time, including: (a) opening meetings to a broader community; (b) holding closed
 meetings; and (c) holding meetings open to the public.
 
--	d) At the start of the Directed Fund, “TAC Projects” are those Technical Projects listed as
-having voting representatives on the TAC on the Directed Fund’s web site. Thereafter,
-any Technical Project can become a TAC Project through the approval of the Technical
-Project’s technical oversight body, the TAC (by a two-third’s vote), and the Governing
+-	d) At the start of the Directed Fund, “Voting Projects” are those Technical Projects listed as
+having voting representatives on the TAC on the Directed Fund’s website. Thereafter,
+any Technical Project can become a Voting Project through the approval of the Technical
+Project’s technical oversight body, the TAC (by a two-thirds vote), and the Governing
 Board. The TAC and the Governing Board may approve a project lifecycle policy that
-will address the incubation, archival and other stages of TAC Projects.
+will address the incubation, archival and other stages of TAC projects.
 
 -	e) The TAC representatives will elect a chair to preside over meetings, ensure minutes are
 taken and drive the TAC agenda with input from the TAC representatives.
