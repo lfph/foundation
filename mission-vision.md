@@ -2,7 +2,7 @@
 
 ## Vision
 
-LFPH is the premier home for the development of open source software and digital services that serves the world's public health needs. To protect lives during this and future pandemics, promote health, and address other population health challenges requires more secure, more privacy-respecting, more standards-based and more collaboratively developed software and digital services.
+LFPH is the premier home for the development of open source software and digital services that serve the world's public health needs. To protect lives during this and future pandemics, promote health, and address other health challenges requires more secure, more privacy-respecting, more standards-based and more collaboratively developed software and digital services.
 
 ## Mission
 
