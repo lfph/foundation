@@ -2,6 +2,29 @@
 
 Each week we post an update of what's been happening in our community to our [Slack](https://slack.lfph.io) workspace. Here you can view an archive of all our weekly updates.
 
+## May 21, 2021
+
+// This is the LFPH Weekly Update. It includes updates from our community on what was achieved in the past week, and what’s coming in the week ahead. Interested contributors should contact the project leads listed here.
+
+:herald:   The first update is from Herald @Adam: Herald is growing, with more and more volunteers which is our ideal at LFPH; including 5 VMware volunteers who are contributing their swing time to help out with Herald. More volunteers are always welcome! They are also working on v2.0 this week with a focus on CI best practices and published packages for all software repos.
+
+:snowboarder:  The second update is from Covid Credentials Initiative @Lucy Yang (CCI):
+CCI Use Case Implementation Workstream Biweekly call on May 25 (7 am PT/2 pm UTC) has invited @David Chadwick to present Simple Universal Verifier (SUV), a solution proposed to solve today’s situation where there are many different Verifiable Credential (VC) wallets that support different cryptographic mechanisms, different schemas, different trust schemes and different policies (for requesting VCs).
+
+:world_map:  The third update is from MedCreds @Tony Rose: MedCreds is a digital verifiable credential that allows the user to carry a medical test result and verify it to others. It is based on blockchain and cryptography technology and is open source. They are having their weekly community call at 10 am PT Thursday. Message @Tony Rose for the link.
+
+:classical_building:  The fourth update is from Cardea, an API that supports electronic health records, @Trevor Butterworth:
+We’ve begun migration of the Cardea repos to LFPH; our second Cardea Community meeting covering agents had a great turnout—29 people—and simultaneous translation into Russian! Next week’s meeting will cover schemas.  We also presented Cardea to the ToIP Ecosystem Working Group and got a very positive response. We’ve started mapping out the development roadmap—and there’s plenty of work to do! We welcome all support!
+
+:globe_with_meridians:  Other Activities
+none
+
+:people_holding_hands:  #community-ops
+Many of you have done this already (thank you!) but for those who haven’t yet, please take a moment to update your Slack profile so it contains all relevant info. For example, by adding your name and affiliation you provide context to your contributions and make it easier for others, especially new community members, to engage. Much obliged!
+We appreciate your comments and suggestions on how to further improve these weekly updates. If anything comes to mind, message us anytime.
+
+Welcome back, @Sara D, and thank you for your work on this weekly update!
+
 ## May 14, 2021
 
 // This is the LFPH Weekly Update. It includes updates from our community on what was achieved in the past week, and what’s coming in the week ahead. Interested contributors should contact the project leads listed here.
