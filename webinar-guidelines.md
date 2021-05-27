@@ -62,6 +62,12 @@ Please be aware of these timelines. We recommend you create a reminder to provid
 * Live Webinar: Starts at the top of the hour
 * Typical timing of the webinar - approximately 5 minute introduction, 25-30 minute presentation, 20 minutes of Q&A
 * LFPH staff will help moderate (introduction, feeding questions to the presenter)
+
+### Code of Conduct and Antitrust Policy
+
+This text needs to be posted to the chat at the beginning of every meeting:
+
+> This meeting is governed by the LFPH Code of Conduct (https://github.com/lfph/foundation/blob/main/code-of-conduct.md) and the Linux Foundation's Antitrust Policy (https://www.linuxfoundation.org/antitrust-policy/).
   
 LFPH does not provide a copy of the webinar recording for individual company use, but the recording will be available on YouTube and the LFPH website. 
   
