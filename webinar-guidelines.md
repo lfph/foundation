@@ -36,12 +36,14 @@ LFPH will review the slide, as we do for the content for the webinar, to approve
 ## Webinar Checklist
 * Email webinars@lfph.io to find a mutually agreeable date, time, and topic for your webinar to get it on the calendar. 
 * 3 weeks before the webinar date: Provide your webinar information including the webinar abstract and speaker information.
-    * Speaker Information
-    * Headshot
     * Title
-    * Company
-    * Bio
-    * Email addresses for all speakers / panelists
+    * Abstract
+    * Speaker Information
+      * Headshot
+      * Title
+      * Company
+      * Bio
+      * Email addresses for all speakers / panelists
 * All deliverables should be sent to webinars@lfph.io.
 * 1 weeks before the webinar date: Share your slides by emailing webinars@lfph.io.
 
