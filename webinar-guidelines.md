@@ -15,8 +15,12 @@ We have outlined content guidelines and timelines below. Webinars that do not me
 * LFPH staff will host webinars on an as-needed basis.
   
 ## Webinar content guidelines
-* These should be educational webinars, whether by presenting information about a general topic to our audience, hosting a debate, or having a discussion about an area of focus related to the work of LFPH.
-* Webinar topics should be comparable to what would be accepted in an Open Source Summit Conference.
+* These should be educational webinars, whether by presenting information about a general topic to our audience, hosting a debate, or having a discussion about an area of focus related to the work of LFPH. Potential areas of inspiration:
+  * Why you decided to go with open source and what advantages you've seen from it
+  * Lessons learned from collaborative development
+  * Partnering with public health authorities
+  * Different use cases based on the jurisdictions using your tool
+  * Evaluation of the public health impact of a given intervention
 * **No product pitches.** It is okay to do a comparison of part of the landscape, but webinars should not be promotional.
 * Any platforms, tools, or technologies you are describing must be open source and work with LFPH. 
 * Slides should be professional and follow presentation best practices. Feel free to reach out to LFPH staff if you have any questions about this.
