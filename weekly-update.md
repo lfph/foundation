@@ -2,6 +2,268 @@
 
 Each week we post an update of what's been happening in our community to our [Slack](https://slack.lfph.io) workspace. Here you can view an archive of all our weekly updates.
 
+## September 04, 2021
+
+// This is the LFPH Weekly Update. It includes updates from our community regarding what was achieved in the past week, and what’s coming in the week ahead. Interested contributors should ping the contacts listed here.
+
+:herald: The first update is from Herald @Adam:
+Herald released v2.0 of the C++ API and are already working on the Exposure Notification API for Herald v2.1
+
+:evergreen_tree: The second update is from Covid Credentials Initiative @Lucy Yang (CCI):
+The [Use Case Implementation Workstream](https://docs.google.com/document/d/1dbWvs1m8uziTsbhUQv_nPofTXAyDSkxI5CZtoo1SlRY/edit?usp=sharing) call (recording [here](https://zoom.us/rec/share/guIautX16kYtkw3QAZzKfcSqN2ER4gKjMEJP6Q9dXj5CN2pdGgfXcL86pkjKlKQT.G_cX2sRhywN-RQMX?startTime=1630418520000)) had @sankarshan provide an update on the [Governance Framework Template](https://docs.google.com/document/d/1cvTAgrdBw0A4Mq9pQDAHYk5skuZ-JTjUxaExWcYSGCw/edit?usp=sharing). To learn more about how to contribute to this at the Rules and Governance Workstream, see [here](https://covidcreds.groups.io/g/usecaseCCI/topic/seeking_contributors_to_the/85319593?p=,,,20,0,0,0::recentpostdate%2Fsticky,,,20,2,0,85319593).
+CCI launched the application for its 2021 Steering Committee Members Election. More details, please see [here](https://docs.google.com/document/d/1NLEWo5-OVBIeqzOBGbCgzbQpyOvFaohiHpucx0aAKlY/edit?usp=sharing). Apply [here](https://covidcreds.groups.io/g/usecaseCCI/topic/seeking_contributors_to_the/85319593?p=,,,20,0,0,0::recentpostdate%2Fsticky,,,20,2,0,85319593).
+We are launching our APAC group next Tuesday (September 7) at 11 am HK / 8:30 am IST. Sign up [here](https://covidcreds.groups.io/g/usecaseCCI/topic/seeking_contributors_to_the/85319593?p=,,,20,0,0,0::recentpostdate%2Fsticky,,,20,2,0,85319593). 
+
+:deciduous_tree: The third update is from Global COVID Certificate Network @Lucy Yang (CCI):
+We have further refined the entry attribute naming of the GCCN Trust Registry Network based on a public sector example from the Netherlands. You can see the example [here](https://docs.google.com/spreadsheets/d/17U2yhXhCVcfxnGWBBDPlvpiGeS4C9JbTKBkf8N5xsyU/edit?usp=sharing).
+We are having interviews with potential GCCN Trust Registry Network participants regarding vetting process definition. We expect to have two more interviews next week.
+
+:palm_tree: The fourth update is from Cardea @Trevor Butterworth:
+Just a reminder that there’s still time to join the Interop-athon! Taking place next week on Sept 9 over four hours. We already have nine participants, but there’s room for more! You can RSVP here and tell us what you want to test—and also who and what you’d like to test against  https://forms.gle/9XVU7D2L1EBYTwsD6
+
+:cactus: The fifth update is from #tac @Jenny Wanger:
+We had a really excellent #tac conversation this week about what potential directions we could take with future projects - [notes](https://docs.google.com/document/d/1e0P8nDwhdeTkOa-17VUA-Bpl57jjsi2NK4OhZWH-eso/edit), [video](https://youtu.be/jz9ZOusyP10)
+
+// Thank you again to all of our contributors, please contact #community-ops or post here with any questions or additions to these updates.
+
+## August 27, 2021
+
+// This is the LFPH Weekly Update. It includes updates from our community regarding what was achieved in the past week, and what’s coming in the week ahead. Interested contributors should ping the contacts listed here.
+
+:herald: The first update is from Herald @Adam:
+Big announcement from The Herald Project:
+Singapore GovTech have donated OpenTrace to The Herald Project! OpenTrace was one of the first Digital Contact Tracing (DCT) systems in the world. The announcement is now live!!! 
+Our tweet: https://twitter.com/HeraldProximity/status/1430080143356268544
+Our blog post: https://heraldprox.io/blog/opentrace-donation
+OpenTrace page on our website: https://heraldprox.io/opentrace
+Updated home page too: https://heraldprox.io/
+Herald has also had extra inbound with people wanting reliable bluetooth for other healthcare use cases. If anyone is thinking of a new/unique use for Bluetooth or proximity in healthcare, please do reach out.
+
+:dart: The second update is from Cardea @Trevor Butterworth:
+We have nine participants for our Interop-athon on September 9! We will be emailing participants soon with details of the event and how it will take place.
+We’ve also added a follow-up event for participants to demonstrate the results of the Interop-athon. Demo Day will take place on September 23, 10am to 12pm Mountain Time.
+
+:snow_capped_mountain: The third update is from Covid Credentials Initiative @Lucy Yang (CCI):
+The [Use Case Implementation Workstream](https://docs.google.com/document/d/1dbWvs1m8uziTsbhUQv_nPofTXAyDSkxI5CZtoo1SlRY/edit?usp=sharing) call had @Rj Reiser from Liquid Avatar present (recording [here](https://zoom.us/rec/play/6p4XhrCD-vZMm4JHWcXgJ2YJbqGzSrclKTtqwHCAwrSuucZNbUUo5u12tAF8bdXxCO0mD7G_7xcxET10.7e2IOBeUt_GErxI7?startTime=1629208916000)) their Verifiable Credential Ecosystem and how they are implementing it in Canada for COVID credentials.
+At the [Schema Task Force](https://docs.google.com/document/d/1jAFXY_UGBg4X34hHGSWJNKFVT_6znf006S1kIdrX3PY/edit?usp=sharing) call (recording [here](https://zoom.us/rec/share/ZjiJIN__hp5AbB6wsdacJ9bZUmmBInq04Zu4_wTIJI2Nd6kie9D7WugZTjXYKW1l.kR-Ox4WhRcHoNjg_?startTime=1628521189000)), @Paul Knowles did an in-depth distillation on some of the differences in data capture recommendations between the WHO specification and the eHealth Network’s [guidelines on verifiable vaccination certificates](https://drive.google.com/drive/u/0/folders/1f34yss4BBswJm0dlGXsoVIowyTITC9OE).
+The [US Vaccine Credential Subgroup](https://docs.google.com/document/d/1_5o2-btJ2dQx172GHzGdATvar-S01XaWRBM0muNnNJI/edit?usp=sharing) call (recording [here](https://zoom.us/rec/share/aJi9NOgdC9Z8yP9U65ZMmm_klpRMvWAVdc7Bw1uBw2YCDD7Ur689w_3fv80Cdu0C.aLVd2_F9wwaTshvm?startTime=1630000700000)) had @Daniel J. Lee from Kokomo24/7 present how they are helping ~70 enterprises/employers reopen workplaces and businesses in the US with their solution.
+CCI hosted the August all-member meeting, walkthrough the community through the [2021 Steering Committee election process](https://docs.google.com/document/d/1NLEWo5-OVBIeqzOBGbCgzbQpyOvFaohiHpucx0aAKlY/edit?usp=sharing) and providing updates on key activities and decisions. 
+
+:globe_with_meridians: The fourth update is from Global COVID Certificate Network @Lucy Yang (CCI) Yang:
+The Dutch Ministry of Health, Welfare and Sports is involved in the development of the Global COVID Certificate Network and interested in participating in our proof of concept. @John Walker and @Savita Farooqui spoke with @Dirk-Willem van Gulik and @Ryan Barrett (NL) from the Ministry this week to keep improving the starting definition.
+
+// Thank you again to all of our contributors, please contact #community-ops or post here with any questions or additions to these updates.
+
+## August 20, 2021
+
+// This is the LFPH Weekly Update. It includes updates from our community regarding what was achieved in the past week, and what's coming in the week ahead. Interested contributors should ping the contacts listed here.
+
+:card_index:  The first update is from Cardea @Trevor Butterworth:
+Our big news for this week is we’ll run an “Interop-athon” for Cardea on September 9, 8:00am to 12:00pm Mountain Time (UTC -6:00). We will stand up a test environment including an Issuer, Mediator, Government, and Verifier Agents for participants to test against. RSVP here and tell us what you want to test—and also who and what you’d like to test against  https://forms.gle/9XVU7D2L1EBYTwsD6
+
+:herald: The second update is from Herald @Adam:
+Hi all. Today Herald passed a vote in the TAC to be promoted from a Level 2 to a Level 3 project! Wonderful news for a project that's only 13 months old. Our big-big news will be next week.
+
+:crossed_swords:  The third update is from Covid Credentials Initiative @Lucy Yang (CCI):
+@Kaliya Identity Woman walked the community through the recently released [WHO DDCC Vaccination Status tech specs and implementation guidance](https://drive.google.com/file/d/1gR9w4fBBVaZ_k3gHRvCy9ZCbYKWfzg_D/view?usp=sharing) at the [Use Case Implementation Workstream](https://docs.google.com/document/d/1dbWvs1m8uziTsbhUQv_nPofTXAyDSkxI5CZtoo1SlRY/edit?usp=sharing) call (recording [here](https://zoom.us/rec/play/6p4XhrCD-vZMm4JHWcXgJ2YJbqGzSrclKTtqwHCAwrSuucZNbUUo5u12tAF8bdXxCO0mD7G_7xcxET10.7e2IOBeUt_GErxI7?startTime=1629208916000)).
+The [Rules and Governance Workstream](https://docs.google.com/document/d/1L7V2mXWUO5fjiwJODyq_wMvkL9EDSf3m7emLxLpvzTk/edit?usp=sharing) has released the [CCI Credentials Governance Framework Template](https://docs.google.com/document/d/1cvTAgrdBw0A4Mq9pQDAHYk5skuZ-JTjUxaExWcYSGCw/edit?usp=sharing), seeking different types of contribution from the community. For more information, please check out the [document](https://docs.google.com/document/d/1cvTAgrdBw0A4Mq9pQDAHYk5skuZ-JTjUxaExWcYSGCw/edit?usp=sharing) and attend the [next workstream call on August 24 at 8 am PT / 3 pm UTC](https://covidcreds.groups.io/g/rulesCCI/viewevent?repeatid=35687&eventid=1219015&calstart=2021-08-24).
+CCI is going to host the [next all-member meeting on August 27 at 7 am PT / 2pm UTC](https://covidcreds.groups.io/g/mainCCI/viewevent?eventid=1250315&calstart=2021-08-27). One key agenda item is to walkthrough the [2021 Steering Committee election process](https://docs.google.com/document/d/1NLEWo5-OVBIeqzOBGbCgzbQpyOvFaohiHpucx0aAKlY/edit?usp=sharing).
+
+The fourth update is from Global COVID Certificate Network @Lucy Yang (CCI) Yang:
+We had an [implementer’s meeting](https://docs.google.com/document/d/1_NbYlVFOLaHmCFgSd7XSCN9OjTLiCc4gJ0PCpTNhMLs/edit?usp=sharing) on August 20 to share with the community new findings for the [starting definition](https://docs.google.com/presentation/d/1VlHSi3aUqD-vljgFs7jDAUkCx91EPFojCdCy4CFJcZw/edit?usp=sharing) of the GCCN Trust Registry Network and discussed the current priority.
+@Lucy Yang (CCI) and @John Walker were invited to speak at the [Trust Over IP Foundation’s all member meeting - trust registry special edition](https://wiki.trustoverip.org/display/HOME/2021-08-18+All+Members+Meeting+Notes) about the business and technical development of the GCCN Trust Registry Network.
+
+:shell:  No updates for MedCreds this week
+
+// Thank you again to all of our contributors, please contact #community-ops or post here with any questions or additions to these updates.
+
+## August 13, 2021
+
+// This is the LFPH Weekly Update. It includes updates from our community regarding what was achieved in the past week, and what’s coming in the week ahead. Interested contributors should ping the contacts listed here.
+
+:train2: The first update is from Covid Credentials Initiative @Lucy Yang (CCI):
+The Use Case Implementation Workstream call (recording here) had @Lal (iGrant.io) demonstrate their “Data for COVID” solution to convert COVID vaccination certificates to secure wallet-stored digital credentials ready for exchange.
+On the Schema Task Force call (recording here) @Paul Knowles provided an update on the GHP-aligned schema specifications the TF is working on.
+The Rules and Governance Workstream met (recording here) to discuss the plan of action for the Workstream and how to get community input for the CCI Credentials Governance Framework Template. The workstream will soon start to organize conversations on a subset of governance-related topics. If you have any topics to suggest or speakers to recommend, please reach out to @sankarshan.
+The Vaccine Credentials US Subgroup convened (recording here) to discuss what the group can do to respond to the increasing demand for COVID certificate solutions for domestic reopening and reached the conclusion that we needed to have a bigger voice to educate the market what is the right way to go.
+
+:railway_car: The second update is from Global COVID Certificate Network @Lucy Yang (CCI) Yang:
+@John Walker and @Savita Farooqui are conducting interviews with candidate entries of the GCCN Trust Registry Network to further evaluate the starting definition of the Network.
+
+:trolleybus: The third update is from Cardea @Trevor Butterworth:
+The big news this week was the implementation of a Cardea based credential for testing in Toronto—a joint Indicio, Liquid Avatar and Vector Health solution: https://www.prnewswire.com/news-releases/indicio-and-liquid-avatar-technologies-launch[…]ntralized-technology-for-sharing-health-data-301353144.html
+The Cardea Community Group was presented with the first draft of a governance framework, which will shortly be available for comment on Cardea. app—which by the way, has been revamped to provide easier access to the Github repository, the Cardea Playbook, and the Community meeting Zoom login: https://cardea.app
+
+:scooter: No updates from MedCreds this week
+
+:herald: Stay tuned for a big update from Herald next week!
+
+// Thank you again to all of our contributors, please contact #community-ops or post here with any questions or additions to these updates. Compiled by @Sara D
+
+## August 06, 2021
+
+// This is the LFPH Weekly Update. It includes updates from our community regarding what was achieved in the past week, and what’s coming in the week ahead. Interested contributors should ping the contacts listed here.
+
+:carrot: The first update is from MedCreds @Tony Rose:
+app.proofengage.io is up and running, the first commercial instance of MedCreds.
+We’re also looking for a new community manager to help lead the project as Michael Richardson has made a decision to move on to new projects so it’s a great opportunity to get involved in an SSI project.
+
+:hot_pepper: The second update is from Covid Credentials Initiative @Lucy Yang (CCI):
+CCI All-Member Meeting July (slides here) took place on July 30, providing the community members key updates on CCI membership, governance and activities. The next one will be on August 27. Join CCI to receive the invite for the August meeting.
+@John Walker led a discussion at this week’s Use Case Implementation Workstream call (recording here) regarding his proposal to form a Rules Engine Task Force under this Workstream. The next step is to flesh out the proposal and have it reviewed by the Steering Committee next week.
+The Schema Task Force is meeting again on August 9. If you want feedback on the schema you are implementing, please reach out to @Paul Knowles.
+
+:tomato: The third update is from Global COVID Certificate Network @Lucy Yang (CCI) Yang:
+GCCN Trust Registry Network Implementers met on August 5 and had a further discussion regarding the definition and MVP of the Network with a particular focus on some potential challenges for real-world implementation. To stay tuned and receive a recurring calendar invite, join mailing list gccn+subscribe@lists.lfph.io
+
+:four_leaf_clover: The fourth update is from Covid Green @Colm Harte:
+An Ireland digital covid cert verifier app was added into Covid Green.
+
+:herald: The fifth update is from Herald @Adam:
+@Anna is working on looking at the future of digital contact tracing and has a call out to talk to PHAs or app developers/solution providers about their needs (E.g. when GAEN is shut down). https://lfpublichealth.slack.com/archives/C01CLUZN9AR/p1628075012004700
+We just held our first international committers meeting with all existing and newly elected committers to the project! Great momentum on wearable hardware design, wearable software development, and end to end system software design going on. We’re moving fast now toward v2.1 Exposure Notification API to multiple diseases, and sync of exposure risk between wearables and phones!
+
+:avocado: The sixth update is from Cardea @Trevor Butterworth:
+We are working on completing our final repository.  We have added two more community videos to the Cardea channel on YouTube—July 15 (Schemas) and July 22 More on Schemas and the Cardea Playbook https://www.youtube.com/playlist?list=PL3LvHy3eIPslC7YhQGXKPN4LvS3ekqfqE. We have one more round of discussion and edits on the Cardea Schemas for next week’s Cardea Community Meeting.
+
+:cucumber: No updates from DCC this week.
+
+// Thank you again to all of our contributors, please contact #community-ops or post here with any questions or additions to these updates. And thanks to @Sara D for putting this update together!
+
+## July 30, 2021
+
+// This is the LFPH Weekly Update. It includes updates from our community regarding what was achieved in the past week, and what’s coming in the week ahead. Interested contributors should contact the leads listed here.
+
+:hot_pepper: The first update is from Covid Credentials Initiative @Lucy Yang (CCI):
+The Use Case Implementation Workstream had @Ryan Barrett (NL) from the Dutch Ministry of Health, Welfare and Sport present (recording here) to the community CoronaCheck, the Dutch COVID certificate app (holder app and verifier app). The community showed great interest in privacy and security choices. For relevant information, please see Security Architecture in Dutch and Privacy Preserving Domestic Green Card in English. We are working to organize a special session to discuss these choices further. Stay tuned.
+The Schema Task Force of the Use Case Implementation Workstream started meeting every other week with the first meeting (recording here) focusing on updating the community on the current status of the schema specifications.
+The Vaccine Credentials US Subgroup call (recording here) had Steve Murchie, the CEO of Envision Technology Partners, share background information regarding Envision’s current discussion with New York’s Excelsior Pass initiative with respect to the planned interface of ‘out of state’ Envision customers providing QR encoded COVID immunization records to the Excelsior platform.
+
+:tomato: The second update is from Global COVID Certificate Network @Lucy Yang (CCI):
+GCCN Trust Registry Network Implementers will be meeting again next week. To stay tuned and receive calendar invite, join mailing list gccn+subscribe@lists.lfph.io
+ 
+
+:cucumber: The third update is from DCC @Gaby Whitehead (NL). EU DCC is cleaning up web hosting for their git repositories.
+
+:carrot: No updates from MedCreds this week
+
+:herald: No updates from Herald this week
+
+:avocado: No updates from Cardea this week
+
+// Thank you again to all of our contributors, please contact #community-ops or post here with any questions or additions to these updates.
+
+## July 23, 2021
+
+// This is the LFPH Weekly Update. It includes updates from our community regarding what was achieved in the past week, and what's coming in the week ahead. Interested contributors should contact the leads listed here.
+
+:ghost: The first update is from Covid Credentials Initiative (#cci) @Lucy Yang (CCI):
+The Use Case Implementation Workstream had a great call (recording here)  on July 20 getting the community aligned on the broadening and deepening scope of the Workstream. @John Walker provided an introduction to the template LFPH is using to define the MVP for the GCCN Trust Registry Network during the second half of the call. The next call on July 27, @Ryan Barrett (NL) from the Dutch Ministry of Health, Welfare and Sport will present the Dutch COVID Certificate app to the community.
+The Schema Task Force of the Use Case Implementation Workstream will start meeting regularly every other week to address two important issues, semantic harmonization and internationalization, following the completion of the drafting of the Good Health Pass Interoperability Blueprint. The next call will be on July 26 at 8 am PT / 3 pm UTC.
+The Vaccine Credentials US Subgroup call on July 29 at 11 am PT / 2 pm ET will have Steve Murchie, the CEO of Envision Technology Partners to speak to the community. Envision has a web-based, database-driven immunization registry system, WebIZTM, which is currently implemented at numerous state and local government agencies in the US and internationally.
+
+:robot_face: The second update is from Global COVID Certificate Network (#gccn) @Lucy Yang (CCI):
+LFPH hosted the second implementers meeting for the GCCN Trust Registry Network on July 23, sharing the insights from three interviews we did with implementers and getting community input on what would make an entry for the MVP.
+
+:clown_face: The third update is from DCC (#eu-digital-green-certificates-dev) @Gaby Whitehead (NL):
+A new valueset released including Covishield etc: https://github.com/ehn-dcc-development/ehn-dcc-valuesets/releases/tag/2.0.0
+Related / of interest but not directly to do with EU DCC: large data leak at a test provider in NL: https://translate.google.com/translate?hl=en&sl=nl&u=https://www.rtlnieuws.nl/nieuws/nederland/artikel/5242193/valse-coronacheck-bewijzen-datalek-testcoronanu&prev=search&pto=aue
+
+:space_invader: The fourth update is from Cardea (#cardea) @Trevor Butterworth:
+We are still working on the Cardea schema, and will likely wrap up next week after much useful discussion. Then we will move on to machine readable governance. Cardea also debuted its playbook and will soon update its website with additional information.
+
+:japanese_ogre: No updates from MedCreds (#lfph-medcreds-general) this week
+
+:alien: No updates from Herald (#herald-general) this week
+
+// Thank you again to all of our contributors, please contact #community-ops or post here with any questions or additions to these updates. We are also looking for community action items for our next meeting.
+
+## July 16, 2021
+
+// This is the LFPH Weekly Update. It includes updates from our community regarding what was achieved in the past week, and what’s coming in the week ahead. Interested contributors should contact the leads listed here.
+
+:flag-eu: The first update is from DCC @Gaby Whitehead (NL). The final regulations for DCC were posted https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32021D1073
+
+:dart: The second update is from MedCreds @Tony Rose:
+We have finished the first round of streamlining of the new developer onboarding cookbook and are taking the first two new developers through it in the next 1-2 weeks.  We will publish the onboarding videos once we’ve finished successful developer onboarding with developer environment set up.  Our goal is new developers can have a full instance of MedCreds running in a developer environment in less than 3 hours.  We have also established the first running instance of “MedCreds inside” utilizing the open source code, a brand new instance from scratch at app.proofengage.io.  We’re still running it through testing and plan to open it up for anyone to establish their own “Engage, with MedCreds inside” wallet soon!
+
+:herald: The third update is from Herald @Adam:
+The Herald hardware prototypes are now undergoing full assembly! Half are Bluetooth DCT, accelerometer and light (RGB-IR) sensor main board only, half also have a daughter board for skin temperature, heart rate, and blood oxidation too. We’ll start testing the sensors (we may have assembled them wrong!) and then work on the full DCT wearable app in the next few weeks!
+We will need donations in order to perform a full ‘production ready’ demo run when we have them all working. Please encourage anyone you know to donate funds to our project: https://crowdfunding.lfx.linuxfoundation.org/projects/9e9b1ee2-23a8-44a5-83bc-e657fd4464ad
+
+:rocket: The fourth update is from Covid Credentials Initiative @Lucy Yang (CCI):
+On the Use Case Implementation Workstream call (recording here), @Lucy Yang (CCI) and @Savita Farooqui presented the GCCN User Flow V1 and identified potential areas of work and discussions that the CCI community could take on to contribute to the GCCN work and/or extend it to broader use cases. The attendees ask great questions and provided valuable insights from their own experience implementing COVID certificates.
+The Vaccine Credentials US Subgroup had an open discussion about the US Federal agencies where the group could influence activities or look for funded opportunities, followed by a discussion of the GCCN User Flow V1 (recording here).
+
+:globe_with_meridians: The fifth update is from Global COVID Certificate Network @Lucy Yang (CCI):
+LFPH released the Global COVID Certificate Network (GCCN) User Flow V1 which focuses on demonstrating how GCCN will operationalize one of the core overarching recommendations of the Good Health Pass Interoperability Blueprint - the use of “a pass (that) encapsulates a business decision and only contains the data required to make that decision, filtering out all other unnecessary and sensitive personal health information.
+
+:bulb: The sixth update is from Cardea @Trevor Butterworth:
+This week, the Cardea working group discussed and agreed on vaccination exemptions for the Cardea schema (video of the meeting via Cardea.app soon). Next week we’ll tie up some loose threads and dive into discussion of how to handle the formats for machine readable governance rules. We’ve also just published an article on the importance of machine readable governance for overall governance, which includes reference to our experience implementing Cardea in Aruba: https://indicio.tech/blog/the-decentralized-identity-revolution-is-powered-by-machine-readable-governance/
+
+// Thank you again to all of our contributors, please contact #community-ops or post here with any questions or additions to these updates. We are also looking for community action items for our next meeting. (Compiled by @Sara D)
+
+## July 09, 2021
+
+// This is the LFPH Weekly Update. It includes updates from our community regarding what was achieved in the past week, and what’s coming in the week ahead. Interested contributors should contact the leads listed here.
+
+First, some housekeeping:
+:calendar:  LFPH has moved its public calendar. You can still see all upcoming events at lfph.io/calendar, but if you were subscribed to the old calendar you’ll need to update your subscription address to get the new events.
+
+On to the updates:
+:dart: The first update is from MedCreds @Tony Rose:
+There will be a special guest speaker next week, from BC Gov, on JSON-LD BBS+ credentials. Find out more in the #lfph-medcreds-general channel!
+
+:globe_with_meridians: The second update is from the Public Health Advisory Council @Jenny Wanger:
+The Public Health Advisory Council met last week and discussed what their attention is shifting to now that COVID systems are all generally established. The notes are available here.
+
+:rocket: The third update is from Covid Credentials Initiative @Lucy Yang (CCI):
+For CCI:
+As of July 9, 20 organizations and 26 individuals have signed up to become CCI members. We will follow up with organizational members next week for logo collections. For those who want to participate in CCI activities and contribute to community projects but haven’t signed the CCI membership agreement yet, please do so ASAP and follow the instructions here.
+For GCCN:
+We had a successful and well-attended GCCN intro webinar for the APAC region.  To review the recording and slides, visit here.
+
+:herald: The fourth update is from Herald @Adam:
+We now have 5 committers after our election which finished early today. Existing and new committers listed here: https://github.com/theheraldproject/theheraldproject.github.io/issues/79#issuecomment-876221237 - There’s now no blocker to us becoming a Stage 3 LFPH project (other than the vote on that, obvs! LOL)
+
+:snow_capped_mountain: The fifth update is from Cardea @Trevor Butterworth:
+The Cardea Community Group rolled up its sleeves and dug into the development roadmap, having prioritized items for July delivery. All but one of the repos has been transferred to LFPH. We plowed through the Cardea schema on Thursday (video soon), reconciling it with Good Health Pass Recommendations. We will cover exemption schemas in next week’s meeting.
+Updates and details at Cardea.app!
+
+:flag-eu: The sixth update is from DCC @Gaby Whitehead (NL). The EU DCC is a going concern with nearly universal adoption in the EU zone. Very few issues with this and a great volume of interest in working with the DCC from outside the EU.
+
+// Thank you again to all of our contributors, please contact #community-ops or post here with any questions or additions to these updates. And thanks to @Sara D for compiling this update!
+
+## July 02, 2021
+
+// This is the LFPH Weekly Update. It includes updates from our community regarding what was achieved in the past week, and what's coming in the week ahead. Interested contributors should contact the leads listed here.
+
+:rocket: The first update is from MedCreds @Tony Rose:
+Michael Richardson has updates on our community meeting schedule, and developer onboarding process. We are ready to bring on new contributors and the first activities will be to set up the LFPH instance and demo environment of LFPH MedCreds
+
+:pineapple:No updates from DCC this week
+
+:racing_car: The second update is from Covid Credentials Initiative @Lucy Yang (CCI):
+For COVID Credentials Initiative #cci
+CCI launched its membership agreement. To continue participate in and contribute to CCI work (including all Slack channels starting with #cci, please sign up as a member, which is free to both organizations (Steering Member Level) and individuals (Contributor Level). More instructions here.
+CCI Use Case Implementation Workstream Call (recording here) on June 29 featured the demonstration from @Mukund Parthasarathy and @John Walker on how to transform an FHIR immunization bundle to a W3C-compliant Verifiable Credential after being piped through Overlay Capture Architecture (OCA) to enable multi-language credentialing.
+The Vaccine Credentials US Subgroup convened (recording here) this week to have an open discussion on some existing Smart Health Cards implementations and what the Good Health Pass Interoperability Blueprint could mean for the US, followed by a presentation from Bindle on their experience implementing the Blueprint recommendations and partnership with performance venues around the US and various employers.
+For Global COVID Certificate Network #gccn
+An introductory webinar was hosted (recording and slides here) this week to provide our community an overview of GCCN, its immediate next steps and some recent progress since its launch.  The same webinar is coming up on July 6 for the APAC region.
+The first GCCN Trust Registry Network Implementers Meeting took place with over 20 attendees, including many from the interested implementers who spoke about their work in implementing trust registries and their thoughts regarding an MVP for the Network. For follow this work, please join #gccn-trust-registry-network
+
+:herald: No updates from Herald this week
+
+:dart: The third update is from Cardea @Trevor Butterworth:
+The first meeting of the Cardea Steering Committee met on Friday, approved a governance charter, and decided on roadmap development priorities: you can see those at Cardea.app.
+Our newest Cardea Community Group Meeting is now available—we delve into app data collection and identity verification. https://www.youtube.com/watch?v=YGEbMI-UWCQ
+We’ve also created our first promo video for Cardea—you can watch it here https://youtu.be/JHeu0DiLAkg
+Next week’s Community Group Meeting is going to revisit schemas—namely to reach a consensus on what Cardea’s schema should look like.
+
+// Thank you again to all of our contributors, please contact #community-ops or post here with any questions or additions to these updates. And thanks to @Sara D for compiling this update.
+
+## note: updates between 21 MAY 2021 and 02 JUL 2021 were unfortunately not archived
+
 ## May 21, 2021
 
 // This is the LFPH Weekly Update. It includes updates from our community on what was achieved in the past week, and what’s coming in the week ahead. Interested contributors should contact the project leads listed here.
