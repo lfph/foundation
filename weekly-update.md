@@ -2,6 +2,20 @@
 
 Each week we post an update of what's been happening in our community to our [Slack](https://slack.lfph.io) workspace. Here you can view an archive of all our weekly updates.
 
+## September 10, 2021
+
+:thread: The #cardea Interop-athon was a big success—not only in proving interoperability but in discovering glitches that prevented it. Keep an eye on the LFPH blog next week for more on the event—we’ll be discussing some of the technical aspects in detail in future Cardea meetings, but first—DemoDay on the 23rd will showcase Interop-athon participants interoperating!
+
+:sewing_needle: For CCI,
+* Application for our 2021 Steering Committee Members Election is open until 11:59 pm PT on September 15. We made it open this week the candidate marking sheet for applicants to refer to when preparing their CVs and Written/Video Pitches.
+* We launched our APAC group #cci-apac-group this week which will be led by three co-leads @Kohei Kurihara @Karl Stemp @Chatchai from the region. You can access the recording here and review the slides here. The first community call will start in two weeks on September 22 (Wednesday) at 11 am HK / 8:30 am IST.
+* At the Schema Task Force #cci-schema-tf call (recording here), @Paul Knowles led a discussion around “COVID-19 Antigen Test Credential” attributes using Canada as an example. There was also an open discussion regarding the data capture requirements for lab developed tests (LDTs) and genomic sequencing, LOINC for whole genome sequencing of SARS-C0v-2 brought up by @Richard Bookman.
+* The US Vaccine Credential Subgroup #cci-vaccinecredentialsfg-us met (recording here) to discuss what should the group focus on moving forward and how we can keep providing value. We had consensus from the group that we were going to expand the conversation to beyond vaccine credential and rename the group to become the North American Group. Similar to the APAC group, we will keep working with the community members to identify topics and have presentations and conversations relevant to the region.
+* The Use Case Implementation Workstream’s next call on September 14 at 7 am PT / 2 pm UTC will have two professors from American University and University of Arkansas to share a “strawperson” (draft) list of 22 foundational requirements for Digital Health Passes, derived largely from the Good Health Pass Interoperability Blueprint. They are seeking volunteers to help finalize the requirements and then provide assessment.
+
+:yarn: For GCCN,
+* @John Walker and @Savita Farooqui are working to define the KYC process for the GCCN Trust Registry Network. They have made the updates to the public sector entry example while looking for an example from a private organization. We are going to have another implementers meeting next Friday at 8 am PT / 3 pm UTC to provide the community an update and get input.
+
 ## September 04, 2021
 
 // This is the LFPH Weekly Update. It includes updates from our community regarding what was achieved in the past week, and what’s coming in the week ahead. Interested contributors should ping the contacts listed here.
