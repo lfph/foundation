@@ -2,6 +2,25 @@
 
 Each week we post an update of what's been happening in our community to our [Slack](https://slack.lfph.io) workspace. Here you can view an archive of all our weekly updates.
 
+## September 17, 2021
+:musical_score:  LFPH news:
+* Work to update the risk scoring recommendations for #exposure-notification continues - if you'd like to join in, please send a blank email to risk-scoring+subscribe@lists.lfph.io.
+* We're starting up a working group on disease outbreak technologies - see more here (or in the post right above this)
+
+:trumpet:  For CCI,
+* The Use Case Implementation Workstream had Erran Carmel from the American University share (recording here) a “strawperson” (draft) list of foundational requirements for Digital Health Passes, derived largely from the Good Health Pass Interoperability Blueprint. There was very good community feedback and we are in conversation with them to continue the work at CCI. The next Workstream call on September 21 at 7 am PT / 2 pm UTC will have @petros kavassalis from the University of the Aegean School of Engineering share his observations after the launch of EU DCC for cross-border travel and some gaps he has identified in the EU domestic market.
+* The Rules Engine Task Force #cci-business-rules-tf met for the first time this week (recording here) to discuss what are the gaps in market and start defining where is the best place for our community to contribute.
+* The APAC group #cci-apac-group will have its first call on September 22 at 11 am HK / 8:30 am IST. We will have @Kohei Kurihara and @Chatchai share respectively what is going on in Japan and Thailand.
+
+:drum_with_drumsticks:  For GCCN,
+* @Lucy Yang (CCI) presented GCCN at the ESCAP/WHO Regional Workshop on Digital COVID Certificate in support of cross-border travel and tourism recovery with experts from UN, WHO, ICAO, European Commission, Korea Disease Control and Prevention Agency, and Technical Unit of India’s National Health Authority.
+* We had the fifth GCCN Trust Registry Network Implementer’s meeting where we shared with the community our takeaways on KYC from interviews with @Marie Wallace @Jim StClair @Darrell O'Donnell and did a walkthrough of the demo app for the Network which includes a public sector entry example from the Dutch Ministry of Health, Welfare and Sport. @Savita Farooqui and her team at SymSoft Solutions have been working hard to spin up this demo app so that we can better showcase how we envision GCCN Trust Registry Network to work.
+
+:saxophone:  Herald via @Adam:
+* v2.1.0-beta1 of the :herald: Herald C++ API is out. Features improved memory usage and reliability, and sending sensor information to a nearby monitoring device over bluetooth (useful for in-office testing and demonstrations of DCT wearables). Also allows Herald C++ apps to customise the Bluetooth adverts and services running, allowing Herald to be used alongside your own services/characteristics with an easy platform agnostic API.Release here: https://github.com/theheraldproject/herald-for-cpp/releases/tag/v2.1.0-beta1
+* Next we're completing the Exposure Notification API for Herald ready for a full v2.1.0 release on all platforms (C++, Java/Android, Swift/iOS).
+
+
 ## September 10, 2021
 
 :thread: The #cardea Interop-athon was a big success—not only in proving interoperability but in discovering glitches that prevented it. Keep an eye on the LFPH blog next week for more on the event—we’ll be discussing some of the technical aspects in detail in future Cardea meetings, but first—DemoDay on the 23rd will showcase Interop-athon participants interoperating!
