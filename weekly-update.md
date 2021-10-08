@@ -2,6 +2,72 @@
 
 Each week we post an update of what's been happening in our community to our [Slack](https://slack.lfph.io) workspace. Here you can view an archive of all our weekly updates.
 
+## October 08, 2021
+// This is the LFPH Weekly Update. It includes updates from our community regarding what was achieved in the past week, and what’s coming in the week ahead, as far as each group passes that on.
+
+:rocket: for LFPH:
+We are thrilled to welcome new leadership with @Jim StClair joining us as Executive Director! Read the whole announcement and see the note above from @Brian Behlendorf: https://www.lfph.io/2021/10/08/welcoming-jim-st-clair/
+
+:mount_fuji: For Cardea:
+The Cardea Steering Committee met this week: Development priorities for the next three months will be finishing machine readable governance and engaging with smartcards.
+The next interopathon will focus on machine readable governance and is tentatively scheduled for late January 2022.
+
+:mountain: For CCI:
+We had our September All-Member Meeting on Oct 8, providing the community an update on the logistics for community groups structuring and hosting a Q&A session for Steer Committee Election Candidates @Chatchai @Trevor Butterworth @Ryan Barrett (NL) to meet the community.
+On Oct 12 at 7 am PT / 2 pm UTC, the Global Implementation Forum (formerly the Use Case Implementation Workstream) will have experts from The Clinical Data Interchange Standards Consortium (CDISC) talk about their newly published Vaccine Administration V1.0, a mapping curation of minimum vaccination data elements and metadata and designed for travel use cases.
+The APAC group #cci-apac-group had a great community call on Oct 6 (recording here), where @Ryan Barrett (NL) provided an overview of the current state of the EU DCC system and the Dutch certificate for domestic use.
+
+:snow_capped_mountain: For GCCN:
+Join our next Friday’s implementers’ meeting to get an update on 1) the narrative for governments on the value of participating in the GCCN Trust Registry Network; 2) verifier strategy; and 3) GCCN Trust Registry Network back-end technical infrastructure.
+
+:cactus: No updates from any of the other LFPH teams this week.
+
+// As always, thank you to all of our contributors, please contact #community-ops or post here (in a thread, please) with any questions or additions to these updates.
+
+## October 01, 2021
+// This is the LFPH Weekly Update. It includes updates from our community regarding what was achieved in the past week, and what’s coming in the week ahead, as far as each group passes that on.
+
+:avocado: For Cardea:
+Last week’s Demo Day was a big success—and we are already planning future interopathons. These events really helped to identify issues and drive development. Thank you to everyone who participated.
+The Cardea community meeting this week will cover shortened URLs, connectionless, and governance—as well as a quick recap of where we are on the roadmap.
+In other related news, Indicio’s Sumiran Agarwal had a busy September—speaking at the UN General Assembly Blockchain meeting on the future of digital identity (at 6:55) https://www.youtube.com/watch?v=qnmCuyqLh38&t=1695s
+
+:hot_pepper: For CCI:
+The CCI Steering Committee approved the proposal to restructure community groups so that we can conduct community activities more effectively. We are going provide an overview of the restructuring in our next all-member meeting on Oct 8 at 7 am PT / 2 pm UTC. 
+The Use Case Implementation Workstream had Arjan Geluk present (recording here) the vaccination certificate extension to the ISO 18013-5 standard for Mobile Drivers Licenses (mDL), followed by a engaging community conversation on topics such as selective disclosure, sample implementations for storing FHIR objects.
+The Use Case Implementation Worstream will transition into the Global Implementation Forum and convene bi-weekly moving forward. At the next meeting on Oct 12 at 7 am PT / 2 pm UTC, we will have experts from The Clinical Data Interchange Standards Consortium (CDISC) talk about their newly published Vaccine Administration V1.0, which is a mapping curation of minimum vaccination data elements and metadata and designed for facilitating global interoperability.
+The APAC group #cci-apac-group will have its next community call on Oct 6 at 9 pm PT / 12 pm HK / 9:30 am IST  (an hour later than our regular time). @Ryan Barrett (NL), who is on the eHealth Network team that works on the EU DCC and a core member of the Dutch COVID app team, will provide an overview of the current state of the EU DCC system and the Dutch certificate for domestic use. Please feel free to PM @Lucy Yang (CCI) for anything specific you want to learn more through the call. 
+
+:carrot: For GCCN:
+@Lucy Yang (CCI) and @Savita Farooqui led a discussion at the GCCN Trust Registry Network Implementers Meeting on the potential governance and business models for the Network (demo app). This is a very critical next step we need to take soon so that we can start officially forming the Network and take it to the next stage of the development.
+
+:herald: for Herald:
+We have our physical wearables for testing. Design also useful for many different eHealth use cases other than DCT, including eHealth monitoring. Low cost for between $10-$25 depending on design chosen. Link to image for the wearable is here: https://lfpublichealth.slack.com/archives/C01RMEC5ZRV/p1632860435009700
+We’re also completing the Exposure Notification API in the next week for C++.
+
+:cactus: No other LFPH-wide updates this week. Tune back in for big news next week though…
+
+// As always, thank you to all of our contributors, please contact #community-ops or post here (if you’re the first, start a thread, please) with any questions or additions to these updates.
+
+## September 24, 2021
+// This is the LFPH Weekly Update. It includes updates from our community regarding what was achieved in the past week, and what’s coming in the week ahead, as far as each group passes that on.
+
+:palm_tree: For LFPH:
+Had our first meeting of the disease outbreak and investigation technologies community meeting, and are working on (1) naming the group, (2) finding participants - PHAs can sign up here, and (3) Setting the agenda for the upcoming few meetings
+
+:deciduous_tree: For CCI:
+The Use Case Implementation Workstream had @petros kavassalis from the University of the Aegean School of Engineering share (recording here) his observations after the launch of EU DCC for cross-border travel and some gaps and opportunities he has identified in the EU market. Our next call on September 28 at 7 am PT / 2 pm UTC will have Arjan Geluk to share with us the vaccination certificate extension of the ISO standard for mobile drivers’ license.
+The Schema Task Force #cci-schema-tf met this week (recording here) where @Paul Knowles provided the community an update on the Overlays Capture Architecture Guideline for a Good Health Pass compatible reference implementation and feedback on the next steps for a schema repository at LFPH.
+The APAC group #cci-apac-group had its first call (recording here) featuring two presentations respectively on the state of vaccination certificate in Japan by @Kohei Kurihara and Thailand by@Chatchai.
+The Vaccine Credentials US Subgroup #cci-north-america-group host a great presentation (recording here) from John Dionne, the the Director of New Business Solutions at STCHealth, on their consumer access program through its MyIR platform, followed by an engaging Q&A session with our community members.
+
+:evergreen_tree: For GCCN:
+We are making improvements of the GCCN Trust Registry Network demo application while figuring out a proper governance and business model for the Network and setting up the production-level back-end infrastructure. We invite you to check out the demo app and try submitting an entry. If you have any feedback or questions, please reach out to @Savita Farooqui.
+
+:cactus: No updates from Herald or Cardea
+
+// Thank you again to all of our contributors, please contact #community-ops or post here (if you’re the first, start a thread, please) with any questions or additions to these updates.
+
 ## September 17, 2021
 :musical_score:  LFPH news:
 * Work to update the risk scoring recommendations for #exposure-notification continues - if you'd like to join in, please send a blank email to risk-scoring+subscribe@lists.lfph.io.
