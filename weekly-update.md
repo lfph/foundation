@@ -22,7 +22,7 @@ Join our next Friday’s implementers’ meeting to get an update on 1) the narr
 
 :cactus: No updates from any of the other LFPH teams this week.
 
-// As always, thank you to all of our contributors, please contact #community-ops or post here (in a thread, please) with any questions or additions to these updates.
+//As always, thank you to all of our contributors, please contact #community-ops or post here (in a thread, please) with any questions or additions to these updates.
 
 ## October 01, 2021
 // This is the LFPH Weekly Update. It includes updates from our community regarding what was achieved in the past week, and what’s coming in the week ahead, as far as each group passes that on.
