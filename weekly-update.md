@@ -2,6 +2,26 @@
 
 Each week we post an update of what's been happening in our community to our [Slack](https://slack.lfph.io) workspace. Here you can view an archive of all our weekly updates.
 
+## October 15, 2021
+
+:cricket_bat_and_ball: For #cardea:
+
+* Part one of our in-depth dive into machine-readable governance is now on YouTube—part two just took place and will be up soon! https://www.youtube.com/watch?v=DdagONprW4E
+
+:field_hockey_stick_and_ball: For #cci:
+
+* CCI Steering Committee Member Election - Community Vote is still open. We have three great candidates @Chatchai @Trevor Butterworth @Ryan Barrett (NL) running for three seats. Vote for the one(s) you want to lead the community here.
+* The newly-named Global Implementation Forum met on October 21 (recording here), where Rhonda Facile and Rebecca Kush from CDISC [Clinical Data Interchange Standards Consortium] presented their newly published Vaccine Administration V1.0, a mapping curation of minimum vaccination data elements and metadata and designed for travel use cases. The presentation led to a lively Q&A session where knowledgeable call participants provided feedback. For further updates on this CDISC initiative, don’t hesitate to contact @Lucy Yang (CCI) or @Paul Knowles.
+* The APAC group #cci-apac-group will meet again on Oct 20 at 11 am HK / 8:30 am IST. We will have the team from DIVOC @Rajeesh Menon to provide the community an overview of their technology and existing implementations. 
+* The Schema Task Force #cci-schema-tf met on October 11 (recording here). The group discussed the importance of data transformation objects and tools to enable attribute mapping and pipeline processing from Purpose-based Service Providers (PSP) to structured data capture forms, specifications, and standards defined by  Data Governance Authorities. This process directly contrasts the current situation where Insights-based Service Providers (ISP) dictate the data unification process, leading to the data’s original context often being lost, leading to contextual inaccuracies at the data aggregation stage. To be continued.
+
+:ice_hockey_stick_and_puck: For #gccn:
+* We had another GCCN Trust Registry Network Implementers’ meeting to provide the community an update on POC progress and share a drafted narrative to help governments understand the value of participating in the GCCN Trust Registry Network.
+
+:lacrosse: For LFPH:
+* The risk score symposium recommendations are nearing their final draft stage. Add your comments here.
+* Check out our latest blog series on different COVID Credential technology
+
 ## October 08, 2021
 // This is the LFPH Weekly Update. It includes updates from our community regarding what was achieved in the past week, and what’s coming in the week ahead, as far as each group passes that on.
 
