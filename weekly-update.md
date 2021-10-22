@@ -2,6 +2,20 @@
 
 Each week we post an update of what's been happening in our community to our [Slack](https://slack.lfph.io) workspace. Here you can view an archive of all our weekly updates.
 
+## October 22, 2021
+
+For #cci:
+* The North America Group #cci-north-america-group had @Brad Head from the British Columbia Government COVID certificate team share with us (recording here) their implementation approach and lessons learned implementing the SMART Health Cards.
+* The APAC Group #cci-apac-group had the DIVOC team provide (recording here) an in-depth overview of their technology, existing implementations and implementations in the pipeline.
+* The Global Implementation Forum on October 26 (7 am PT / 2 pm UTC) will have eMed, a US-based at-home rapid testing solution provider and digital health pass solution provider, talk about how they are helping to make international travel easier and bring people back to work.
+* The Practical Governance Task Force #cci-practical-governance-tf will meet for first time on Oct 27 (7 am PT / 2 pm UTC) since its renaming and collect community input on a Digital Health Pass Checklist.
+
+For #gccn:
+* We are working to get more details fleshed out for a GCCN Trust Registry Network POC. Join our next call on Oct 29 at 8 am PT / 3 pm UTC to learn more.
+
+For LFPH:
+* The October newsletter is out. If you didn't get it, sign up for our mailing list at lfph.io/#newsletter
+
 ## October 15, 2021
 
 :cricket_bat_and_ball: For #cardea:
