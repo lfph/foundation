@@ -48,6 +48,7 @@ LFPH will review the slide, as we do for the content for the webinar, to approve
       * Company
       * Bio
       * Email addresses for all speakers / panelists
+    * Any social media handles to tag (we use Twitter, LinkedIn)
 * All deliverables should be sent to webinars@lfph.io.
 * 1 weeks before the webinar date: Share your slides by emailing webinars@lfph.io.
 
