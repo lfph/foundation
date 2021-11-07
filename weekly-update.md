@@ -2,6 +2,41 @@
 
 Each week we post an update of what's been happening in our community to our [Slack](https://slack.lfph.io) workspace. Here you can view an archive of all our weekly updates.
 
+## November 7, 2021
+
+:herald:  For #herald-general:
+* Looking for help with designing our approach to helm and kubernetes for OpenTrace v2. Also looking for community advocates to help us get regular short videos out there about what we are doing and to build the community.
+
+:sunflower: For #cci,
+* At the APAC Group call #cci-apac-group (recording here),  @Michael Maher, the CEO of OnePassport, presented their mobile workforce credentialing system for workers in regulated industries and how it is helping both State and Federal Governments in Australia on workforce compliance and immunization programs.
+* At the North America Group call #cci-north-america-group (recording here),  @Daniel J. Lee, the CEO of Kokomo24/7, provided an update on their VaxTrax platform and their current implementation with Amtrak to ensure employee compliance with the COVID health policies.
+* The Global Implementation Forum call on November 9 at 7 am PT / 2 pm UTC will have Kay Chopard, the new Executive Director of Kantara, provide our community an overview of the NIST 800-63-3 Digital Identity Guidelines and Kantara’s assurance program for implementers of this standard.
+
+:tulip: For #gccn,
+* We have moved our recurring Implementers’ meetings to every other Thursday. Join our next call on November 11 at 8 am PT / 3 p UTC to get an update on the #gccn-trust-registry-network PoC.
+
+:cherry_blossom:  For LFPH:
+* We headed over to the Linux Foundation Member Summit this week where @Jenny Wanger and @Jim StClair shared more about our community's accomplishments so far and what lies ahead. We'll post the video when it's ready.
+* Join us Nov. 17 for a presentation on some of the lessons learned from delivering 25 million COIVD test results and vaccination records - https://www.lfph.io/webinars/empowering-patients/
+
+## October 29, 2021
+
+:fish: For #cardea:
+* This week’s meeting dove into derivative credentials, with a focus on incorporating the EU’s DCC into Cardea.
+* Next week’s meeting will be on KYC (Know-Your-Customer) processes.
+* The second installment of our deep dive into Machine Readable Governance is now up on YouTube: https://www.youtube.com/watch?v=_TVy7b601N8
+
+:tropical_fish: For #cci:
+* The Global Implementation Forum had Carlos Correcha and Marco Magistri from eMed, a digital point of care platform that enables home diagnostic testing with third-party verified and validated results, present (recording here) their FDA-approved technology, explaining how it aims to help bring people back to work and re-engage with international travel.
+* The Schema Task Force #cci-schema-tf discussed (recording here) Data Agreements to record the conditions for an organization to process personal data following jurisdictional and sectoral privacy regulations (e.g., GDPR, CCPA, HIPPA, etc.) captured in a signed receipt given to the individual.
+* The Practical Governance Task Force #cci-practical-governance-tf shared (recording here) updates on work underway to produce the Digital Health Pass checklist and sought out feedback on the current state of the work. The first version of this checklist is scheduled to be available for community review and feedback during November. This work complements the Governance Framework Toolkit that is under development.
+* The Business Rules Task Force #cci-business-rules-tf discussed (recording here) complexity of COVID health and travel rules and gaps in existing solutions. At our next call, we are going to have @Travis James from Tribe Health Solutions provide a walkthrough of their solution and continue our conversations on defining the scope for this task force - what open protocol and resources we can develop to address the market needs.
+* The APAC Group #cci-apac-group will meet on November 3 at 11 am HKT / 8:30 am IST. @Michael Maher, the CEO of OnePassport, will present to us their solution, a mobile workforce credentialing system for workers in regulated industries. OnePassport works with both State and Federal Governments in Australia on workforce compliance and immunization programs, providing a smartphone app for individual users to record their information and a cloud-based SaaS system for organizations to manage the data.
+* The North America Group #cci-north-america-group will meet on November 4 at 11 am PT / 2 pm ET and have @Daniel J. Lee, the CEO of Kokomo24/7, share their work with Amtrak on using technology to enable streamlined management of running the vaccine and testing program and running the compliance program.
+
+:dolphin: For #gccn
+* We are gaining interest from more and more countries and organizations for the #gccn-trust-registry-network while making good technical progress for its PoC. At the past Implementers’ Meeting, @John Walker led a discussion of the TRAIN protocol we are trying and evaluating for the Trust Registry Network back-end using an example he created through the TRAIN schema and explained how it maps to the entry showcased through our demo web app. If you are interested in participating in our GCCN Trust Registry Network PoC, reach out to @Lucy Yang (CCI).
+
 ## October 22, 2021
 
 For #cci:
