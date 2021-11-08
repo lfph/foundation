@@ -32,6 +32,10 @@ The objectives of project social media:
 ### Images & Videos
 Images shared, unless specifically credited back to a community member, will meet the requirements of “free for commercial use” and “no attribution required.”
 
+### Setup
+
+* The project should set up their own social media accounts, and then pass ownership off to LFPH.
+* LFPH maintains control of all project social media accounts. For Twitter, we use the [Teams feature](https://help.twitter.com/en/using-twitter/tweetdeck-teams) of Tweetdeck to add project contributors as people who can post on behalf of the project. 
 
 ## [@lfpubhealth](https://www.twitter.com/lfpubhealth) Twitter handle
 ### Objectives
