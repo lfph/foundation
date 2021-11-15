@@ -2,6 +2,23 @@
 
 Each week we post an update of what's been happening in our community to our [Slack](https://slack.lfph.io) workspace. Here you can view an archive of all our weekly updates.
 
+## November 12, 2021
+
+:herald: For #herald-general:
+* :trophy:  Herald won the OpenUK award for open source software! Please help us congratulate @Adam and the entire Herald team on this great achievement. You can catch some photos from the awards ceremony on Twitter.
+
+:softball: For #cci:
+* The Global Implementation Forum (recording) had Kay Chopard, the new Executive Director of Kantara, provide an overview of the NIST 800-63-3 Digital Identity Guidelines, how health credential projects can benefit from implementing it and Kantara’s assurance program for it.
+* The Business Rules Task Force #cci-business-rules-tf  (recording) had @Travis James, the CTO of Tribe Health Solutions, outline their approach for implementing business rules within their platform in a soon to be released solution and share the key functional features required for distributed rules processing, including Rule Discovery, Validation, Signing, Access Control and Rule Invalidation.
+* The APAC group #cci-apac-group call on November 16 at 7 pm PT / November 17 at 11 am HKT will have @Tobias Looker from MATTR, the technology partner of the New Zealand government, provide a walkthrough of the technical specification for the New Zealand COVID Health Pass, which uses the W3C Verifiable Credential Data Model.
+
+:volleyball: For #gccn
+* We are forming a technical task force for #gccn-trust-registry-network led by our staff to devise a plan on leveraging the EU ESSIF TRAIN (TRust mAnagement INfrastructure) project for a proof-of-concept (PoC) and build the additional components needed for the PoC. To participate in the technical task force, join the Slack channel.
+
+:football: For LFPH:
+* @Jim StClair’s slides from last week's Linux Foundation Member Summit are available to view.
+* Happening next week! Nov. 17 - A presentation on some of the lessons learned from delivering 25 million COIVD test results and vaccination records - https://www.lfph.io/webinars/empowering-patients/
+
 ## November 7, 2021
 
 :herald:  For #herald-general:
