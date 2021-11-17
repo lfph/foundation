@@ -1,5 +1,7 @@
 # How to post news clips to LFPH website
 
+You must be logged in to Wordpress to do this.
+
 * Create a new post
 * Have the title of the post be the title of the outlet (i.e. "NBC News", "Wired", etc.) followed by a colon and the title of the article. 
 ** NBC News: Demand grows for digital vaccine passports as borders reopen
@@ -9,3 +11,8 @@
 * Category: News
 * Set the featured image as a logo of the news outlet. If none is available please upload. Make sure the name of the logo is the name of the news outlet so we can re-use it.
 * [Example](https://www.nbcnews.com/tech/tech-news/demand-grows-digital-vaccine-passports-borders-reopen-rcna5269)
+
+
+Please also post the link with a pull quote from the LFPH staff member to #news on Slack.
+
+
