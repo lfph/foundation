@@ -59,6 +59,7 @@ Please be aware of these timelines. We recommend you create a reminder to provid
 * The webinar is added to the [LFPH webinar page](https://lfph.io/webinars).
 * LFPH will promote the webinar via email, Twitter, and our [newsletter](https://lfph.io/#newsletter).
 * Our most successful webinars are when the presenting company helps promote in addition to LFPH promotion. We are often able to double our attendance in these cases.
+* We are unable to share the registrant list with presenting teams.
  
 ## Webinar Moderator
 * LFPH will provide a moderator for the webinar. The moderator is an LFPH staff member.
