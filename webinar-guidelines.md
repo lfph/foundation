@@ -31,6 +31,7 @@ We have outlined content guidelines and timelines below. Webinars that do not me
 * Links to company websites (not the LFPH website)
 * Links to projects websites or Github
 * Can advertise if they are hiring and who to contact if interested
+* You may also share this text to be added to the website featuring your session at lfph.io/webinars.
 
 LFPH will review the slide, as we do for the content for the webinar, to approve the content. If changes are needed, we will provide suggested changes.
 
