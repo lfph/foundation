@@ -79,3 +79,9 @@ This text needs to be posted to the chat at the beginning of every meeting:
 LFPH does not provide a copy of the webinar recording for individual company use, but the recording will be available on YouTube and the LFPH website. 
   
 Please note: We are unable to share the list of leads or include any promotions with the intention of driving leads due to the Linux Foundation's privacy policy.
+
+## For LFPH Staff - Important Tips, Tricks, & To-Dos
+
+* When adding the webinar to wordpress, you need to convert the link to a shortlink (such as bit.ly). The link that you get via Zoom email does not work with our plugin and will lead to an error. 
+* After the webinar is complete, upload the video to YouTube and add the link to Wordpress so it will appear on our website. We try to get this done within 24 hours of the event end. 
+* Please also add the video to socialbee as a recurring content piece so that it gets re-circulated over time.
