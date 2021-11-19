@@ -2,6 +2,24 @@
 
 Each week we post an update of what's been happening in our community to our [Slack](https://slack.lfph.io) workspace. Here you can view an archive of all our weekly updates.
 
+## November 19, 2021
+
+:mushroom: For #cci:
+* The APAC group #cci-apac-group call had @Tobias Looker from MATTR (recording here), the technology partner of the New Zealand government, provide a walkthrough of the technical specification for the New Zealand COVID Health Pass, which has leveraged some emerging but widely implemented standards. Check out the recording and find out the rationale behind the major technical decisions of spec.
+
+:poultry_leg: For #gccn
+* The #gccn-trust-registry-network technical task force will meet on November 23 at 8 am PT / 4 pm UTC to kick off the planning for the PoC. Our EU ESSIF TRAIN (TRust mAnagement INfrastructure) project contact will join us and help us navigate how to leverage the project.
+
+:green_salad: For LFPH:
+* We're co-hosting an event dedicated to improving the COVID credential experience in international travel with #cci and our member Affinidi.
+   * Dec 1 - APAC: https://bit.ly/international-credentials-apac
+   * Dec 2 - EMEA/Americas: https://bit.ly/international-credentials-eua
+* Missed this week's event about delivering COVID data to patients? Video is available here for your viewing pleasure.
+* Thanksgiving is next week in the US, so some LFPH staff will be working with limited hours and we'll see you the week following! For those of you who celebrate, happy Thanksgiving! :turkey:
+
+:broccoli: For #cardea:
+* Cardea has made a lot of progress on machine readable governance over the past few weeks; so, we’re ready to announce an Interop-athon on Machine Readable Governance in January 2022. Details to come! No meeting next week due to Thanksgiving.
+
 ## November 12, 2021
 
 :herald: For #herald-general:
