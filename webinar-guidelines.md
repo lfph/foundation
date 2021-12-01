@@ -88,3 +88,11 @@ Please note: We are unable to share the list of leads or include any promotions 
 * When adding the webinar to wordpress, you need to convert the link to a shortlink (such as bit.ly). The link that you get via Zoom email does not work with our plugin and will lead to an error. 
 * After the webinar is complete, upload the video to YouTube and add the link to Wordpress so it will appear on our website. We try to get this done within 24 hours of the event end. 
 * Please also add the video to socialbee as a recurring content piece so that it gets re-circulated over time.
+
+### Marketing Webinars
+
+* Schedule tweets
+* Add to LinkedIn events page
+* Include in newsletter
+* Cross-post to Hyperledger Healthcare SIG
+* Consider YouTube Livestream
