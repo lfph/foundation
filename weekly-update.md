@@ -1,6 +1,22 @@
 # Weekly Updates
 
-Each week we post an update of what's been happening in our community to our [Slack](https://slack.lfph.io) workspace. Here you can view an archive of all our weekly updates.
+Each week we post an update of what's been happening in our community to our [Slack](https://slack.lfph.io) workspace. Here you can view an archive of all our weekly updates. For those posting to this, note that the links do not get copied over and need to be added back in.
+
+## December 3, 2021
+
+For LFPH:
+
+* We're hiring a marketing coordinator! Our ideal candidate is someone who has a strong understanding of public health and some familiarity with social media, blogging, etc. Job posting is [here](https://docs.google.com/document/d/1K_nYw9Njko7HSnpPV1oe5QH2_Ko9y2KpDP96wP-mo5Y/edit?usp=sharing).
+
+For #cci:
+
+* @Kaliya Identity Woman and @Lucy Yang (CCI) will share the takeaway and learning of the COVID Health Credentials for International Travel Summit at the upcoming the [Global Implementation Forum](https://covidcreds.groups.io/g/global-implementation-forum/viewevent?repeatid=38273&eventid=1304782&calstart=2021-12-07) on December 7 at 7 am PT / 2 pm UTC.
+* The CCI community will be on holiday mode from December 13, 2021 to January 7, 2022, during which there will be no community meetings and newsletters.
+
+For #gccn
+
+* @John Walker is leading the technical development work with the support of many of our community members. We expect to have the back-end infrastructure set up for the GCCN Trust Registry Network PoC before the end of the year. Our next [Technical Task Force](https://lists.lfph.io/g/gccn/viewevent?repeatid=40543&eventid=1328755&calstart=2021-12-07) call will be on December 7 at 8 am PT / 2 pm UTC.
+
 
 ## November 19, 2021
 
