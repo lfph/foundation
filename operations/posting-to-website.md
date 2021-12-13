@@ -1,4 +1,10 @@
-# How to post news clips to LFPH website
+# Posting to the LFPH.io Website
+
+## Login
+
+Login at http://lfph.io/wp/wp-login.php. You need to have a login created for you if you don't have one already. Contact program ops to get that done.
+
+## How to post news clips to LFPH website
 
 You must be logged in to Wordpress to do this.
 
@@ -15,4 +21,6 @@ You must be logged in to Wordpress to do this.
 
 Please also post the link with a pull quote from the LFPH staff member to #news on Slack.
 
+## Cautionary Tales
 
+* If you want to make edits but don't want them published immediately, it's best to "switch to draft" **before** making any edits. Otherwise it's a little tricky to not have it go directly to prod. 
