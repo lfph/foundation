@@ -69,8 +69,9 @@ Please be aware of these timelines. We recommend you create a reminder to provid
 ## Webinar: Day-Of Details
 * Webinar Prep: ½ hour before the webinar starts. Soundcheck, webinar slides, moderation of the Q&A.
 * Live Webinar: Starts at the top of the hour
-* Typical timing of the webinar - approximately 5 minute introduction, 25-30 minute presentation, 20 minutes of Q&A
+* Typical timing of the webinar - approximately 5 minute introduction, 20-25 minute presentation, 15-20 minutes of Q&A
 * LFPH staff will help moderate (introduction, feeding questions to the presenter)
+* LFPH staff needs to press the "Live on Custom Live Streaming Service" button under the "more" menu to livestream the event
 
 ### Code of Conduct and Antitrust Policy
 
