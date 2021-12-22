@@ -95,4 +95,4 @@ Please note: We are unable to share the list of leads or include any promotions 
 * Add to LinkedIn events page
 * Include in newsletter
 * Cross-post to Hyperledger Healthcare SIG
-* Consider YouTube Livestream
+* Consider YouTube Livestream ([Instructions to set up](https://support.zoom.us/hc/en-us/articles/360028478292-Live-streaming-meetings-webinars-on-YouTube))
