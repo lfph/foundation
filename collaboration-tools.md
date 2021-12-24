@@ -18,6 +18,7 @@
     - [Calendar guidance](#calendar-guidance)
     - [Subscribing to calendars](#subscribing-to-calendars)
     - [Calendar management best practices](#calendar-management-best-practices)
+    - [How our public calendar is set up](#how-our-public-calendar-is-set-up)
 
 
 LF Public Health maintains a number of tools to enable collaboration amongst community participants. To help navigate these tools, this document provides a brief outline of how to use them and best practices.
@@ -197,6 +198,15 @@ Instructions for subscribing to an iCal calendar for popular calendaring tools:
   - For changes/cancellations, email the invitees as well to inform them of the cancellation
   - When provisioning a new series of recurring meetings, instruct invites to remove old entries manually.
 - Courtesy Email, as a meeting lead it is a best practice to email the applicable sub-group with a note about any new meetings available, any meeting changes, or meeting cancellations. 
+
+### How our public calendar is set up
+
+This is regarding the public calendar hosted at lfph.io/calendar and is mostly for LFPH staff reference. 
+
+- To have a groups.io calendar get added to the LFPH public calendar, that group needs to add ca-notices@hyperledger.org as a member to the group. 
+- After that, any events that are posted to that group within groups.io should also be posted to the public calendar.
+- If an event is changed or removed, it is worth double-checking that the public calendar gets updated. 
+- If there are any problems with the public calendar, please contact the Hyperledger Community Architects Team, who are kind enough to maintain this technology for LFPH.
 
 [Code of Conduct]: code-of-conduct.md
 [LF Public Health Calendar]: https://lists.lfph.io/calendar
