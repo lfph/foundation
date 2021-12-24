@@ -21,6 +21,22 @@ You must be logged in to Wordpress to do this.
 
 Please also post the link with a pull quote from the LFPH staff member to #news on Slack.
 
+## Blog
+
+Blog posts are reasonably straightofrward. See [creating-images.md] for instructions on creating the image that goes with the blog post. 
+
+* Add title and blog to main body, insert any images, etc. 
+* Generally we try to publish in the mornings. 
+* Add the "blog" category. If the blog relates to GCCN, also add that category so it shows up on the GCCN page. "Annoucments" should only be used for LFPH press releases and still keep the primary category "blog", as "annoucements" doesn't display anywhere exclusively. 
+* Add the featured image
+* Update meta title and description at bottom of page
+* Change shortlink after saving to somethin SEO-friendly and/or shorter
+* Select the author. The author drop-down list is Wordpress admins only, so you'll need to use the secondary settings to add a "guest author" if relevant. 
+* Marketing the blog post
+  * All blog posts are automatically added to the twitter rotation, though without much in the way of description or title. 
+  * It's best to create a few tweets to cycle through on the blog topic. Note whether the blog is evergreen or time-sensitive when scheduling. 
+  * Make sure to notify the blog author of when it's going to be posted so they can also promote. Even better, send them the tweets once they're up (and tag them) to get some RTs.  
+
 ## Cautionary Tales
 
 * If you want to make edits but don't want them published immediately, it's best to "switch to draft" **before** making any edits. Otherwise it's a little tricky to not have it go directly to prod. 
