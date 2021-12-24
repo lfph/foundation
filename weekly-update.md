@@ -2,6 +2,35 @@
 
 Each week we post an update of what's been happening in our community to our [Slack](https://slack.lfph.io) workspace. Here you can view an archive of all our weekly updates. For those posting to this, note that the links do not get copied over and need to be added back in.
 
+## December 24, 2021
+
+:herald:  For #herald-general:
+* Herald v2.1.0-beta2 is released! See the tweet for details: https://twitter.com/HeraldProximity/status/1472674038149533716 or the release notes: https://github.com/theheraldproject/herald-for-cpp/releases/tag/v2.1.0-beta2
+
+:interrobang: For #exposure-notification:
+* The risk score v2.0 recommendations are published! We'll be putting out a blog post about it on Wednesday and advertising widely. If you'd like to take a look before then, you can head straight over to our GitHub. Thank you so much to everyone who helped in drafting these and leading the way. https://github.com/lfph/gaen-risk-scoring/blob/main/risk-scoring.md
+
+:hash: For LFPH:
+* Wishing everyone who is celebrating this week a very happy holiday. We'll be taking next week off and will see you again in January. Stay safe, stay healthy.
+
+## December 10, 2021
+
+:saxophone: for #cardea
+* In next week’s #cardea meeting, the team will review the roadmap in light of the past year, and assess the status of new protocols on machine-readable governance and out-of-band connection, which will be added to the next Interop-athon event, scheduled for the new year. More community meeting videos have been [added to YouTube](https://www.youtube.com/channel/UCtwBqR2xCF583_xVy4isxSQ/videos).
+
+:trumpet: for #cci:
+* @Kaliya Identity Woman and @Lucy Yang (CCI) shared (recording [here](https://zoom.us/rec/share/QBmuPs_7YIx-b97x9MMLcGzqaWf-LElW1WMDuLIIDi6nRT0N6Dy_b7MnSroeYivE.pfWSxwJubtO3Zy6a?startTime=1638889301000)) the takeaway and learning of the COVID Health Credentials for International Travel Summit at the Global Implementation Forum followed by a community discussion of what it meant for CCI. A summary report of the Summit will be released soon.
+* The Schema Task Force #cci-schema-tf met (recording [here](https://zoom.us/rec/share/WNl_iQjaLUk64Zeu7gunmxAhLQtYCIVKYZTbSaDIltz6zZDONc9ZneEu9j7coKYW.oZH2TgHNhgVD5JE0?startTime=1638806404000)) to get an update from @Paul Knowles on the [Data Agreements project](https://essif-lab.eu/automated-data-agreements-to-simplify-ssi-work-flows-by-igrant-io/) and discuss how we can leverage this work particularly for health credentials in 2022.
+* The Business Rules Task Force #cci-business-rules-tf met (recording [here](https://zoom.us/rec/share/gfWPZ3MjCeEBLN_N-vaj01FsWKoSj94jVAk7wsczmgmazJ5cBlRh_zrNlpWoWR8U.LsWxoFNTm-78sr-A?startTime=1638979324000)) to define the next steps of the task force and the group agreed to work on laying out a few use cases as a starting point in 2022.
+* There won’t be any CCI meetings until the second week of January. Calendar invites for the new year will be sent soon.
+
+:guitar: for #gccn
+* We are making good progress with the technical back-end of for the GCCN Trust Registry Network PoC #gccn-trust-registry-network. To get the most up-to-date information, join the the last implementers (technical task force) meeting before holidays on [December 15, 2021 at 8 am PT / 2 pm UTC](https://lists.lfph.io/g/gccn/viewevent?repeatid=40543&eventid=1336229&calstart=2021-12-15).
+
+:drum_with_drumsticks: for LFPH:
+* Watch @Jenny Wanger’s [presentation at the Linux Foundation Member Summit](https://www.youtube.com/watch?v=qz93zquApCA&t=5658s) on the accomplishments of our community and some of where we’re headed.
+A big thank you to @James Snell for his leadership on the LFPH #tac for this past year+. We’ll miss him, and congratulations to @Adam for stepping in to lead the group through 2022.
+
 ## December 3, 2021
 
 For LFPH:
