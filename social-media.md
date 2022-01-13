@@ -23,7 +23,7 @@ The objectives of project social media:
 * Share vendor-neutral, community-sourced posts that are informational, engaging, and ecosystem-focused
 * Engage with the community through retweets and sharing of community content.
 * Ecosystem content is vendor-neutral and project-impartial sourced from contributors, maintainers, ambassadors, news outlets, etc., including blog posts, news coverage, thought leadership bylines, technology demos, sketch notes, GitHub work, cloud native-specific Meetups, etc.
-* LFPH projects should not share anything on our channels that promotes a vendor product or directs to a company website. 
+* LFPH projects should not share anything on our channels that promotes a vendor, vendor product or directs to a company website. 
 * Social posts from member company handles and/or vendor channels should be rarely shared. We prefer vendor-neutral links and sahres.
 * Community content that abides by the channel guidelines + includes insight from/work with more than one LFPH project should be prioritized for sharing. 
 * Activities that are hosted by and open to the public can be promoted, as they benefit the ecosystem as a whole.
@@ -70,7 +70,7 @@ For all LFPH social activity, we remain a neutral foundation. Examples of the ty
 * Owned content is LFPH news, blogs, case studies, survey data, etc.
 * Project content is anything sourced from [LFPH’s currently hosted projects](https://www.lfph.io/projects/), including project news, roadmap updates, new releases, performance/security updates, blogs, conferences slides/videos, etc.
 * Ecosystem content is vendor-neutral and project-impartial sourced from contributors, maintainers, ambassadors, news outlets, etc., including blog posts, news coverage, thought leadership bylines, technology demos, sketch notes, GitHub work, etc.
-* LFPH is not able to share anything on our channels that promotes a vendor product. 
+* LFPH is not able to share anything on our channels that promotes a vendor or vendor product. 
 * Community content that abides by the channel guidelines + includes insight from/work with more than one LFPH project will be prioritized for sharing. 
 * Activities that are hosted by and open to the public can be promoted, as they benefit the ecosystem as a whole. 
 
