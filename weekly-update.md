@@ -2,6 +2,48 @@
 
 Each week we post an update of what's been happening in our community to our [Slack](https://slack.lfph.io) workspace. Here you can view an archive of all our weekly updates. For those posting to this, note that the links do not get copied over and need to be added back in.
 
+## January 14, 2022
+
+Welcome to the first real update of the year. It’s great to have you all back from your respective breaks. Here’s to a successful 2022! On to the updates:
+
+:mango: For #cardea:
+* We are changing the format of the Thursday community meetings. Henceforth, the
+  * 1st Thursday of the month will be an intro meeting for newcomers, and review of playbook
+  * 2nd/4th Thursdays will be technical meetings
+  * 3rd Thursday of the month will focus on marketing/communication plans
+* We are beginning to prepare for the next Interopathon. This will be on out-of-band/DID exchange protocols and machine readable governance. We expect a reference implementation before the end of January, along with technical documentation. We will then allow several weeks for companies to implement and test with Indicio holding office hours for support.
+
+:pineapple: For #cci:
+* The [Global Implementation Forum](https://covidcreds.groups.io/g/global-implementation-forum/viewevent?repeatid=38273&eventid=1299007&calstart=2021-10-26) on Jan 11 had @Lucy Yang (CCI) and @John Walker present [recording](https://zoom.us/rec/share/l2_mfkhH2k2t1R4x6NbdThD4aVbVSyPgwMFeJvtHcb5E0KWiFj5P2bPl_J5VW3SS.nvWnU8o01u8eHRMp?startTime=1641913149000) an update on of the #gccn-trust-registry-network to the CCI community, discussing the how CCI community members can benefit and contribute to the work.
+* The #cci-business-rules-tf met ([meeting page](https://docs.google.com/document/d/1XGGc1vFP_pxE1jl33S0Jln4JpVslYT0Nsh2653HbGaQ/edit?usp=sharing) and [recording](https://zoom.us/rec/share/iALT8fHSmO2Zeq2ORI2wvNOONekICiisMa8MGyWst4ws1NUoGybOCOb7sUi0znyY.ANQ-Vwu-yzmi47fd?startTime=1642003093000)) on Jan 12 to discuss the two use cases the Task Force is going to work through: 1) biometric pre-check and 2) foreign traveler requirements.
+* The #cci-practical-governance-tf met on Jan 12 to collect feedback from Bindle Systems on the [Digital Health Credential Implementers Guide](https://docs.google.com/spreadsheets/d/10Zr_apBF8f9sMNaTWf8mN8DfHMnEQRVWFZmOvsI3E_c/edit?usp=sharing). The Task Force will work further in the upcoming weeks to incorporate feedback and getting it ready for broader community review.
+* The #cci-apac-group will have its first call in the new year on [Wednesday January 19](https://covidcreds.groups.io/g/apacCCI/viewevent?repeatid=41030&eventid=1359804&calstart=2022-01-18) at 11 am HKT. We will invite community members to share how the current Omicron wave are affecting COVID certificate implementations in the APAC region.
+
+:strawberry: For #gccn
+* We had the first 2022 #gccn-trust-registry-network implementers call today ([meeting page](https://docs.google.com/document/d/1_NbYlVFOLaHmCFgSd7XSCN9OjTLiCc4gJ0PCpTNhMLs/edit?usp=sharing) and [recording](https://zoom.us/rec/share/mo6CL3FUoLbEZJ1WIx6B81OGBJRN_8FDFW761x4JQ-AJT8fIM2niA0sHgwkgBJgl.fkQDhEBrFad9OWTi?startTime=1642089471000)) to present the roadmap and priorities for the upcoming six months and where we are at with the technical development (we have the technical back-end ready for the PoC.
+
+:hot_pepper: For LFPH:
+* We completed our monthly governance board and introduction of the 2022 strategic plan. Major themes for LFPH activities will be 1) Rural health 2) Veterans Health and 3) health equity
+* LFPH presented to the LF AI TAC to discuss creating an “Ethics in Healthcare AI” training plan
+* LFPH and Consensys Health co-presented on the Veterans Incentivized Coordination & Integration (VICI) initiative. Watch the replay here: [https://www.youtube.com/watch?v=5NMervhm-VQ&t=6s](https://www.youtube.com/watch?v=5NMervhm-VQ&t=6s)
+LFPH is participating as a panelist in the HHS/ONC Showcase: “Artificial Intelligence Showcase – Seizing the Opportunities and Managing the Risks of Use of AI in Health IT”
+The LF led the way in presenting Open Source Software Security to the Whitehouse. LFPH participates in several working groups to improve medical device security and Software Bill of Materials (SBOMs): [https://www.linuxfoundation.org/press-release/the-openssf-and-the-linux-foundation-addre[…]e-supply-chain-security-challenges-at-white-house-summit/](https://www.linuxfoundation.org/press-release/the-openssf-and-the-linux-foundation-address-software-supply-chain-security-challenges-at-white-house-summit/)
+* Planned Conference Activities
+  * HLTH Mar 6-9
+  * HIMSS Mar 14-18
+
+## January 7, 2022
+
+:tada: Happy New Year, everyone.
+
+There are no updates to share just yet. For many of our members and their teams the past few weeks have been marked by well-deserved downtime and rest, some intentional and some less so (Covid/Omicron has certainly been making the rounds in some areas; we hope everyone is healthy or recovering well).
+
+Please remember to share any updates you might have so we can collect them and include them in next week’s roundup.
+
+## December 31, 2022
+
+No update (as planned on December 240.
+
 ## December 24, 2021
 
 :herald:  For #herald-general:
