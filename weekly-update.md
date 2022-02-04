@@ -2,6 +2,45 @@
 
 Each week we post an update of what's been happening in our community to our [Slack](https://slack.lfph.io) workspace. Here you can view an archive of all our weekly updates. For those posting to this, note that the links do not get copied over and need to be added back in.
 
+## February 4, 2022
+
+The LFPH Weekly Update, where our community shares the achievements of the past week and what’s coming in the weeks ahead, is very quiet today. That happens from time to time and we’re sure we’ll have a solid list of topics next week. Have a great weekend, everyone!
+
+## January 28, 2022
+
+:racing_car: For #cardea
+* At next week’s Cardea meeting Jim St. Clair will be presenting on LFPH’s strategy for 2022. One goal of the Cardea Working Group is to understand how the Cardea codebase can be used to support use cases that accord with LFPH’s strategic priorities. The reference implementation for machine readable governance is close to being finished. Updates will be announced in the Cardea Slack and on Cardea.app
+
+:rocket: For #cci
+* The [Global Implementation Forum](https://covidcreds.groups.io/g/global-implementation-forum) had @Andreas Sigurdsson, the Founder and CEO of [Zada Solutions](https://zada.io/) share their experience “Launching and scaling COVID credentials as an industry initiative in Myanmar” (recording [here](https://zoom.us/rec/share/STpLbPHpbC_K7uFEs--MhwCkKFllFuUxj0TzxG673NVMCY3qESNpHcsIE5xT2ugV.vLpgwwDyxoH-LWOR?startTime=1643122764000) and slides [here](https://drive.google.com/file/d/1qJtPF3IjXRYKnL4YuQWHkamTGfYMipIk/view?usp=sharing)).
+
+## January 21, 2022
+
+:globe_with_meridians: For LFPH:
+* On Jan 26, Dimagi will present “Bringing global best practices to US public health” at 12 PM ET/ 6 PM UTC – you can [register here](https://zoom.platform.linuxfoundation.org/webinar/register?project=lfph&id=G18n21ThHfH2skrh2AZMDUPWG6hOySNCxr7ZVjX79QPNVfxmEzw3La6WAcbX5MMffAZjBoIfAKtY7MXWANs%3D&logo=lfph.svg&zoomID=91567427751)
+* LFPH will participate in the EU Open Source Forum as part of the panel, “EU Digital Covid Certificates: How Open Source Opened Europe” at 545AM ET/ 1145 AM UTC
+
+:snow_capped_mountain: For #cci:
+* On Jan 25 at 7 am PT / 3 pm UTC, the [Global Implementation Forum](https://covidcreds.groups.io/g/global-implementation-forum/viewevent?repeatid=41026&eventid=1359762&calstart=2022-01-25) will have @Andreas Sigurdsson, the Founder and CEO of [Zada Solutions](https://zada.io/), share their experience “Launching and scaling COVID credentials as an industry initiative in Myanmar”.
+  * In 2021, ZADA launched in Myanmar a COVIDPASS program in collaboration with the private sector. The COVIDPASS program provides businesses with tools to restore confidence in their ability to handle COVID-19, both issuers such as hospitals and verifiers such as airlines, buses, restaurants and entertainment. ZADA has so far provided booking and registration systems, as well as a QR scanning solution for physical checks.
+  * Andreas will cover the following main topics in his presentation:
+    * Going to production and launching as a industry initiative 
+    * Adapting to the reality on the ground how people use the platform
+    * Getting the first issuer onboard and the extra work to make them integrate
+    * Expanding the network to more verifiers, and getting them to integrate
+    * Scaling and performance.
+* For all CCI activities, you can subscribe to the community calendar here.
+
+:snowman_without_snow: For #gccn
+* The #gccn-trust-registry-network implementers are meeting on [Jan 27 at 8 am PT / 4 pm UTC](https://lists.lfph.io/g/gccn/viewevent?repeatid=41564&eventid=1386255&calstart=2022-01-27) to discuss further PoC and launching the governance and business model task force.
+
+:bullettrain_front: For #cardea
+* The team has just updated the Cardea website. (It will be iterative improved, so lots more content coming in the next few weeks.)  https://Cardea.app
+* The community group are also group writing a white paper eta for end of February.
+
+:lower_left_paintbrush: For #sig-design
+* The team has been working on The Digital Health Connections Model, a representation of the system of services that can make up digital health software. While it remains a work in progress, they felt it’s ready to share with the wider group. Have a look at https://goinvo.github.io/DigitalHealthServiceComponents/ and if you want to get involved, head over to their Slack channel.
+
 ## January 14, 2022
 
 Welcome to the first real update of the year. It’s great to have you all back from your respective breaks. Here’s to a successful 2022! On to the updates:
