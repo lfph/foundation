@@ -2,6 +2,24 @@
 
 Each week we post an update of what's been happening in our community to our [Slack](https://slack.lfph.io) workspace. Here you can view an archive of all our weekly updates. For those posting to this, note that the links do not get copied over and need to be added back in.
 
+## February 10, 2022
+
+:hot_pepper: For #cardea:
+* The date for our next Interop-athon is Thursday, March 17, 2022.
+* We’ll be testing Out-of-Band (OOB) invitations with those whose agents who are able to receive them (we will be able to accommodate old-style invitations too). This will be a valuable opportunity to test and tune agents ahead of Aries Community adoption of OOB on March 31 — and we encourage any company who wants to test their agents to join us— regardless of their interest in Cardea or health credentials.
+* We will also be testing basic machine readable governance (MRG).
+*A reference implementation for both OOB and MRG will be made available shortly—and we’ll have office hours to help people with installation well ahead of the event. Timings, sign up sheets to come!
+
+:mango: For #cci:
+* After a few months of work at the Practical Governance Task Force led by @errancarmel and @sankarshan, the [Digital Health Credential System Implementation Guide V1](https://docs.google.com/spreadsheets/d/10Zr_apBF8f9sMNaTWf8mN8DfHMnEQRVWFZmOvsI3E_c/edit?usp=sharing) was moved from Pre-Draft to Draft stage at the Global Implementation Forum (recording of the discussion [here](https://zoom.us/rec/play/-DiDXIhQNVrHsTZ66fSlfe0f5BRmxj-japFO6DCbll8fDK6K3NUqLwF7XXcrq9bfZoq4XmIHlJo0WcVF.3QJOGIvIf4g0VM2c?startTime=1644332421000&_x_zm_rtaid=cMDhAUa_SDeTC_YE5X5reg.1644525958376.dff6c60ba2cd30dff44ec4e833de841b&_x_zm_rhtaid=350)).
+* Inspired by the Good Health Pass work, the #cci-practical-governance-tf (formerly the Rules and Governance Workstream) created this simple guide to help implementers understand what requirements a digital health credential system needs to meet to be called “Good”. This can be used by implementers before starting their product development as a guide for their design considerations and a benchmark while developing and iterating on their products. 
+* As the next step, until Feb 18, we are inviting the community to comment on this Draft deliverable, particularly on the following:
+   * If the overall structure of the guide is easy to understand by implementers and the general public
+   * If the guide covers the most important requirements 
+   * If the requirements are reasonable and actionable
+   * If the requirements are communicated clearly 
+* We look forward to receiving your comments!
+
 ## February 4, 2022
 
 The LFPH Weekly Update, where our community shares the achievements of the past week and what’s coming in the weeks ahead, is very quiet today. That happens from time to time and we’re sure we’ll have a solid list of topics next week. Have a great weekend, everyone!
