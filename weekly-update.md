@@ -2,6 +2,23 @@
 
 Each week we post an update of what's been happening in our community to our [Slack](https://slack.lfph.io) workspace. Here you can view an archive of all our weekly updates. For those posting to this, note that the links do not get copied over and need to be added back in.
 
+## February 18, 2022
+
+:earth_africa: For LFPH:
+We just completed a [webinar with member MTX on mental health post-COVID 19](https://youtu.be/n8ht26gvoR0). 
+Meeting of the #tac approved a new project with Cisco, the Public Health Data Mesh. [Meeting recording available here](https://youtu.be/cze07MRg9KY).
+
+:cactus: For #cci:
+On Feb 22 at 7 am PT / 3 pm UTC, our [Global Implementation Forum](https://covidcreds.groups.io/g/global-implementation-forum/viewevent?repeatid=41026&eventid=1359809&calstart=2022-02-22) will host @Chatchai from [Finema](https://finema.co/), to present on the [Thailand Pass](https://tp.consular.go.th/), which the company developed for the Thai government to reopen travel. Chatchai is one of our newly elected Steering Committee members.
+
+:pineapple: For #cardea:
+Save the date and sign up for the second Cardea Interop-a-thon.
+March 17, 8am to 12 noon MST (-7:00 UTC)
+In addition to providing an opportunity testing agents, wallets, and networks, we’ll be focusing on out-of-band invitations and machine readable governance. Code for download will be available on Feb 24. Office hours for help with implementation and technical details on Cardea.app
+Anyone using Hyperledger Aries agents welcome to participate ahead of the switchover on March 31.
+Please RSVP by COB March 15 on [https://cardea.app](https://cardea.app/) (scroll past the fold)
+
+
 ## February 10, 2022
 
 :hot_pepper: For #cardea:
