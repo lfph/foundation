@@ -2,6 +2,19 @@
 
 ## March 25, 2022
 
+:strawberry:For #tac:
+Main update: the TAC is looking for people to present at upcoming meetings, either about their own projects, cool opensource in healthcare, new project ideas, or problems in healthcare they see!
+Please reach out to me at adamf@vmware.com to discuss presentation slots. Usually they are 20 mins, followed by 10 mins Q&A.
+
+:blossom:F️or LFPH:
+We are excited to announce that LFPH has completed Memorandums of Understanding (MOUs) with the Michigan Health Information Network (MiHIN) and Digital Twin Consortium (DTC).
+University of Texas, University of Rochester and Florida State University will also be joining in a new Academic Medical Center consortium to address digital health equity.
+Jim St. Clair (executive director) attended HLTH VIVE on March 6-9 and HIMSS on March 14-18. He presented on Digital Twins in healthcare, eConsent, health equity in communities, and cybersecurity.
+
+:bouquet:The rest of the community is quietly working away on their projects. More next week!
+
+## March 18, 2022
+
 :sunrise_over_mountains: For #tac:
 Main update: A presentation this week around an idea for a "k8s for healthcare" project.
 There was good discussion on this and the TAC would like to hear from people/PHA/ISVs/projects that are targeting Kubernetes in healthcare. Be sure to follow up on the #tac channel
@@ -16,19 +29,6 @@ Our speakers include Jim Dempsey, from the Stanford Cyber Policy Center, as well
 Please register here: https://www.lfph.io/webinars/ai-cybersecurity-in-healthcare-understanding-the-opportunities-and-challenges/
 
 :fireworks: The rest of the community is quietly working away on their projects. More next week!
-
-## March 18, 2022
-
-:strawberry:For #tac:
-Main update: the TAC is looking for people to present at upcoming meetings, either about their own projects, cool opensource in healthcare, new project ideas, or problems in healthcare they see!
-Please reach out to me at adamf@vmware.com to discuss presentation slots. Usually they are 20 mins, followed by 10 mins Q&A.
-
-:blossom:F️or LFPH:
-We are excited to announce that LFPH has completed Memorandums of Understanding (MOUs) with the Michigan Health Information Network (MiHIN) and Digital Twin Consortium (DTC).
-University of Texas, University of Rochester and Florida State University will also be joining in a new Academic Medical Center consortium to address digital health equity.
-Jim St. Clair (executive director) attended HLTH VIVE on March 6-9 and HIMSS on March 14-18. He presented on Digital Twins in healthcare, eConsent, health equity in communities, and cybersecurity.
-
-:bouquet:The rest of the community is quietly working away on their projects. More next week!
 
 ## March 11, 2022
 
