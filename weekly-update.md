@@ -1,6 +1,51 @@
 # Weekly Updates
 
-Each week we post an update of what's been happening in our community to our [Slack](https://slack.lfph.io) workspace. Here you can view an archive of all our weekly updates. For those posting to this, note that the links do not get copied over and need to be added back in.
+## March 25, 2022
+
+:sunrise_over_mountains: For #tac:
+Main update: A presentation this week around an idea for a "k8s for healthcare" project.
+There was good discussion on this and the TAC would like to hear from people/PHA/ISVs/projects that are targeting Kubernetes in healthcare. Be sure to follow up on the #tac channel
+Video recording link on the TAC website: https://youtu.be/yUNGIYPDBWU
+
+:night_with_stars: For #cardea:
+The Cardea Interop-a-thon was held on March 17 (Thursday)! We will post more updates and learnings from this event over the coming days and weeks.
+
+:boat:F️or LFPH:
+We are excited to host our monthly webinar next week on Monday, March 21 at 8am Pacific/11am Eastern/16:00 CET: “AI Cybersecurity in Healthcare: Understanding the Opportunities and Challenges.”
+Our speakers include Jim Dempsey, from the Stanford Cyber Policy Center, as well as Dr. Beat Buesser, IBM Research Europe, and Jim St. Clair, Executive Director of LFPH.
+Please register here: https://www.lfph.io/webinars/ai-cybersecurity-in-healthcare-understanding-the-opportunities-and-challenges/
+
+:fireworks: The rest of the community is quietly working away on their projects. More next week!
+
+## March 18, 2022
+
+:strawberry:For #tac:
+Main update: the TAC is looking for people to present at upcoming meetings, either about their own projects, cool opensource in healthcare, new project ideas, or problems in healthcare they see!
+Please reach out to me at adamf@vmware.com to discuss presentation slots. Usually they are 20 mins, followed by 10 mins Q&A.
+
+:blossom:F️or LFPH:
+We are excited to announce that LFPH has completed Memorandums of Understanding (MOUs) with the Michigan Health Information Network (MiHIN) and Digital Twin Consortium (DTC).
+University of Texas, University of Rochester and Florida State University will also be joining in a new Academic Medical Center consortium to address digital health equity.
+Jim St. Clair (executive director) attended HLTH VIVE on March 6-9 and HIMSS on March 14-18. He presented on Digital Twins in healthcare, eConsent, health equity in communities, and cybersecurity.
+
+:bouquet:The rest of the community is quietly working away on their projects. More next week!
+
+## March 11, 2022
+
+:herald: For #herald-general:
+A new version of herald-analysis (an R library script with examples) will be released that includes a working approach to phone Bluetooth signal strength self-calibration based on data collected from the Herald demo app.
+This uses ideas from Proxemics to self-calibrate a phone based on a persons interactions with other humans - close contacts, acquaintances, and people passing nearby. Calibrating these common contact proximities on a person’s phone makes risk scoring more accurate, and also calibrates to things due to their behavior, such as always placing their phone the same way in their pocket or bag.
+Initial testing shows after calibration, the two mutual contacts’ risk scores were within 7.5% of each other!
+These calibrations can be further tuned from ‘norms’ in particular societies, if required. We’re going to trial it further before creating a Social Mixing Score UI component in Herald for other app developers to use. The mechanism itself and an example will be in the next version of the Herald API, as part of the Risk and Exposure API examples.
+Description here: https://github.com/theheraldproject/herald-analysis#phone-self-calibration-scripts
+Full blog post detailing the above here: https://heraldprox.io/blog/self-calibration
+
+:pineapple: For #cardea:
+Save the date and sign up for the second Cardea Interop-a-thon.
+March 17, 8am to 12 noon MST (-7:00 UTC)
+In addition to providing an opportunity testing agents, wallets, and networks, we’ll be focusing on out-of-band invitations and machine readable governance. Code for download will be available on Feb 24. Office hours for help with implementation and technical details on Cardea.app
+Anyone using Hyperledger Aries agents welcome to participate ahead of the switchover on March 31.
+Please RSVP by COB March 15 on https://cardea.app (scroll past the fold)
 
 ## February 18, 2022
 
