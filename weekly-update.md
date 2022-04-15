@@ -1,5 +1,42 @@
 # Weekly Updates
 
+## April 8, 2022
+
+:mushroom:For #tac and LFPH:
+Be sure to register for our Linux Public Health Foundation “Open House” on April 21, 10am Central/11am ET (17:00 CEST)! Register [here](https://bit.ly/3qRS0V2) (https://bit.ly/3qRS0V2).
+:shell:For #cardea:
+This week, the Cardea community made wonderful progress on a draft of the Cardea white paper. The paper will provide a comprehensive overview of the fundamentals of the project to newcomers and business decision makers.
+The date for Cardea’s digital health credentials demo day is Thursday, April 14, at 11am Central/12 noon ET (18:00 CEST). Participants will have the opportunity to test different vendor solutions interoperating with the Cardea reference implementation, test out of band invitations, and test machine readable governance. This is a great opportunity for those interested in decentralized identity, verifiable credentials, or self-sovereign identity to see it in action first hand. Join us by signing up for Groups(.)io [here](https://lists.lfph.io/g/cardea?utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN).
+Join us for the Cardea Interop-a-thon 2 retrospective webinar on Tuesday, April 19, 11am Central/12 noon ET (18:00 CEST) and learn more about this powerful codebase: be sure to register [here](https://bit.ly/3qWXvBN).
+:leaves:F️or #gccn-trust-registry-network:
+We hosted a GCCN community meeting today (recording [here](https://zoom.us/rec/share/1chvD_mGLUwHZRJFA9s1n4bw7G6KuzC095iPRRK6Mhb5EW1hm7dyQLhMtBv0AZTs._xO8-sfKBR1zbsKr?startTime=1649343657000)) providing an update on the GCCN Trust Registry Network PoC and collecting feedback on the PoC demo.
+:bamboo:The rest of the community is quietly working away on their projects. More next week!
+// As always, thank you to all of our contributors and community members! Please contact #community-ops or post here (in a thread, please) with any questions or additions to these updates.
+
+## April 1, 2022
+
+:coat:For #tac and LFPH:
+As we continue into the fourth month of the year, we are thrilled to announce our first Linux Public Health Foundation “Open House” on April 21, 10am Central/11am ET (17:00 CEST)! Join us to hear about:
+LFPH’s first two years,
+our projects and accomplishments,
+our strategic approach for 2022, and
+new projects that are in development.
+Everyone is welcome to attend and learn more! Register [here](https://bit.ly/3qRS0V2) (https://bit.ly/3qRS0V2).
+In the last month, the TAC has approved several new projects for LFPH that they will be initiating in Q1/Q2!
+Maternal Mental Health Database (Florida State University)
+Public Health Data Mesh (Cisco)
+Consent Service Utility (SOCI)
+:crystal_ball: For #cardea:
+The Cardea Interop-a-thon 2 was held on March 17! Please see [our LFPH blog post](https://www.lfph.io/2022/03/31/member-profile-series-looking-back-on-cardeas-second-successful-interop-a-thon-indicio%ef%bf%bc/?utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN) with more details on the event and next steps.
+The date for Cardea’s digital health credentials demo day is Thursday, April 7, at 11am Central/12 noon ET (18:00 CEST). Participants will have the opportunity to test different vendor solutions interoperating with the Cardea reference implementation, test out of band invitations, and test machine readable governance. Sign up [here](https://lists.lfph.io/g/cardea?utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN).
+The Cardea Interop-a-thon 2 retrospective webinar will be hosted on Tuesday, April 19, 11am Central/12 noon ET (18:00 CEST): be sure to register [here](https://bit.ly/3qWXvBN).
+:closed_book: F️or #cci:
+CCI is moving out of LFPH to form an independent LF project that focuses on community building and standardization efforts and will continue working with LFPH as sister projects. More information to be announced through the [CCI community newsletter](https://us10.campaign-archive.com/home/?u=1e21ad08ed0422a5dac0b8eed&id=ebe791efe9&utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN).
+:balloon: F️or #gccn-trust-registry-network:
+The LFPH team is working with partners to complete a Proof-of-Concept (PoC) of the [GCCN Trust Registry Network](https://docs.google.com/presentation/d/1hZbdzKz-wuKRNs_4XQkCgVQCIkJjCFd6zsDpOOZMIZM/edit?usp=sharing&utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN) to showcase viability of the technology and basic functionalities of the Network. Stay tuned for more details of the PoC or participate in the next [GCCN community call](https://lists.lfph.io/g/gccn/viewevent?eventid=1480509&calstart=2022-04-07&utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN) to learn more.
+:necktie: The rest of the community is quietly working away on their projects. More next week!
+// As always, thank you to all of our contributors and community members! Please contact #community-ops or post here (in a thread, please) with any questions or additions to these updates.
+
 ## March 25, 2022
 
 :strawberry:For #tac:
