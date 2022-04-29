@@ -1,104 +1,160 @@
 # Weekly Updates
 
+## April 29, 2022
+
+:bread: For LFPH:
+- The [Institute for Exceptional Care](https://www.ie-care.org/) has joined as an associate member. The Institute for Exceptional Care (IEC) was created to address issues in healthcare effectiveness and equity for those with Intellectual and Developmental Disabilities (I/DD).
+- By tapping the power of innovation, IEC aims to transform our healthcare system and help healthcare better locate and serve people with I/DD.
+
+:green_salad: For #cardea:
+- There was no community meeting this week as many of our members were onsite at the Internet Identity Workshop (IIW).
+- Next week is the monthly Cardea Newcomers meeting where we will review the roadmap and re-introduce the basic concepts and tech that make up Cardea. This is a great meeting for anyone who is looking at verifiable credentials for healthcare to see how they are implemented in Cardea. Sign up at Groups io to get the calendar invite and meeting zoom link: https://lists.lfph.io/g/cardea
+
+:tomato: For Herald:
+- In addition to last week's Bluetooth MESH note in the Weekly Update, Herald has released a web page for Herald and Bluetooth MESH (more info in the Herald MESH section at left in the webpage).
+  - [Herald Bluetooth MESH Introduction](https://heraldprox.io/mesh/)
+- Herald also now has a blog post up on the Herald Bluetooth MESH API:
+  - [Introducing the Herald Bluetooth MESH API](https://heraldprox.io/blog/mesh-api)
+
+:broccoli: The rest of the community is quietly working away on their projects. More next week!
+
+## April 22, 2022
+
+🧤 For LFPH:
+- LFPH has established a membership in the OpenHIE group, part of the Regrensteif Institute, and established a liaison relationship with the Digital Twin Consortium.
+
+👟 For #gccn-trust-registry-network:
+- LFPH [announced the completion](https://www.lfph.io/2022/04/19/lfph-completes-the-proof-of-concept-of-its-gccn-trust-registry-network/) of the GCCN Trust Registry Network Proof-of-Concept with two planned webinars on [May 10, 2022 at 8 am ET / 2 pm CEST](https://www.lfph.io/webinars/gccn-trust-registry-network-proof-of-concept-demonstration-and-qa/), and [May 11, 2022 at 7 pm PT / (+1d) 10 am HKT](http://lfph.io/webinars/gccn-trust-registry-network-proof-of-concept-demonstration-and-qa/) to provide a demo to the public and answer questions. Accompanying the announcement is a [two-piece series of articles](https://www.lfph.io/2022/04/19/how-does-a-border-control-officer-know-if-a-covid-certificate-is-valid-gccn/) that explain further the why and how of the GCCN Trust Registry Network.
+
+🧦 For #cardea:
+- Cardea will be cancelling next week’s meeting for the [IIW](https://internetidentityworkshop.com/) conference.
+- The Cardea community discussed testing items for the next Interop-a-thon 3– tentatively scheduled June 16. (interop profile review scheduled for 5/1)
+
+🧣 For Herald (#herald-general):
+- We have a working Bluetooth MESH demo linked into RabbitMQ to enable remote administration and "Find my syringe pusher" type functionality, and will in future allow visitors to navigate the hospital in a privacy preserving way (all location triangulation and choice of destination is done on the phone). Currently it's just passing messages with no user interface, but we're working on that now ready for a Beta in early May.
+
+🥾 The rest of the community is quietly working away on their projects. More next week!
+
+## April 15, 2022
+
+:helicopter:For #tac, Project Herald :herald: and LFPH:
+- Project Herald: We have a working example of Bluetooth MESH that we're working on for Smart Hospitals.
+- Please review and leave comments on a new suggestion for the LFPH Landscape page layout here: https://github.com/lfph/lfph-landscape/pull/457
+- Be sure to register for our Linux Public Health Foundation “Open House” on April 21, 10am Central/11am ET (17:00 CEST)! Register [here](https://bit.ly/3qRS0V2) (https://bit.ly/3qRS0V2).
+
+:articulated_lorry:For #cardea:
+- This week, the Cardea community saw demonstrations of two different systems (Liquid Avatar and SITA) that could issue, receive, and hold verifiable digital health credentials. We talked about upcoming enhancements to the Cardea Project that would expand the scope of its use among providers, patients, and other verifying entities and tentatively planned for the next Interop-a-thon to take place in June.
+- Register now for the Cardea Interop-a-thon II retrospective webinar taking place on Tuesday, April 19, 11am Central/12 noon ET (18:00 CEST) and learn more about this complete end-to-end codebase for verifiable digital credentials: be sure to register [here](https://bit.ly/3qWXvBN).
+- Final edits for the Cardea Whitepaper are due by April 20 for a May 1 release. The paper will provide a comprehensive overview of the fundamentals of the project to newcomers and business decision makers.
+
+:rocket:The rest of the community is quietly working away on their projects. More next week!
+
 ## April 8, 2022
 
 :mushroom:For #tac and LFPH:
-Be sure to register for our Linux Public Health Foundation “Open House” on April 21, 10am Central/11am ET (17:00 CEST)! Register [here](https://bit.ly/3qRS0V2) (https://bit.ly/3qRS0V2).
+- Be sure to register for our Linux Public Health Foundation “Open House” on April 21, 10am Central/11am ET (17:00 CEST)! Register [here](https://bit.ly/3qRS0V2) (https://bit.ly/3qRS0V2).
+
 :shell:For #cardea:
-This week, the Cardea community made wonderful progress on a draft of the Cardea white paper. The paper will provide a comprehensive overview of the fundamentals of the project to newcomers and business decision makers.
-The date for Cardea’s digital health credentials demo day is Thursday, April 14, at 11am Central/12 noon ET (18:00 CEST). Participants will have the opportunity to test different vendor solutions interoperating with the Cardea reference implementation, test out of band invitations, and test machine readable governance. This is a great opportunity for those interested in decentralized identity, verifiable credentials, or self-sovereign identity to see it in action first hand. Join us by signing up for Groups(.)io [here](https://lists.lfph.io/g/cardea?utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN).
-Join us for the Cardea Interop-a-thon 2 retrospective webinar on Tuesday, April 19, 11am Central/12 noon ET (18:00 CEST) and learn more about this powerful codebase: be sure to register [here](https://bit.ly/3qWXvBN).
+- This week, the Cardea community made wonderful progress on a draft of the Cardea white paper. The paper will provide a comprehensive overview of the fundamentals of the project to newcomers and business decision makers.
+- The date for Cardea’s digital health credentials demo day is Thursday, April 14, at 11am Central/12 noon ET (18:00 CEST). Participants will have the opportunity to test different vendor solutions interoperating with the Cardea reference implementation, test out of band invitations, and test machine readable governance. This is a great opportunity for those interested in decentralized identity, verifiable credentials, or self-sovereign identity to see it in action first hand. Join us by signing up for Groups(.)io [here](https://lists.lfph.io/g/cardea?utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN).
+- Join us for the Cardea Interop-a-thon 2 retrospective webinar on Tuesday, April 19, 11am Central/12 noon ET (18:00 CEST) and learn more about this powerful codebase: be sure to register [here](https://bit.ly/3qWXvBN).
 :leaves:F️or #gccn-trust-registry-network:
-We hosted a GCCN community meeting today (recording [here](https://zoom.us/rec/share/1chvD_mGLUwHZRJFA9s1n4bw7G6KuzC095iPRRK6Mhb5EW1hm7dyQLhMtBv0AZTs._xO8-sfKBR1zbsKr?startTime=1649343657000)) providing an update on the GCCN Trust Registry Network PoC and collecting feedback on the PoC demo.
+- We hosted a GCCN community meeting today (recording [here](https://zoom.us/rec/share/1chvD_mGLUwHZRJFA9s1n4bw7G6KuzC095iPRRK6Mhb5EW1hm7dyQLhMtBv0AZTs._xO8-sfKBR1zbsKr?startTime=1649343657000)) providing an update on the GCCN Trust Registry Network PoC and collecting feedback on the PoC demo.
+
 :bamboo:The rest of the community is quietly working away on their projects. More next week!
-// As always, thank you to all of our contributors and community members! Please contact #community-ops or post here (in a thread, please) with any questions or additions to these updates.
 
 ## April 1, 2022
 
 :coat:For #tac and LFPH:
-As we continue into the fourth month of the year, we are thrilled to announce our first Linux Public Health Foundation “Open House” on April 21, 10am Central/11am ET (17:00 CEST)! Join us to hear about:
-LFPH’s first two years,
-our projects and accomplishments,
-our strategic approach for 2022, and
-new projects that are in development.
-Everyone is welcome to attend and learn more! Register [here](https://bit.ly/3qRS0V2) (https://bit.ly/3qRS0V2).
-In the last month, the TAC has approved several new projects for LFPH that they will be initiating in Q1/Q2!
-Maternal Mental Health Database (Florida State University)
-Public Health Data Mesh (Cisco)
-Consent Service Utility (SOCI)
+- As we continue into the fourth month of the year, we are thrilled to announce our first Linux Public Health Foundation “Open House” on April 21, 10am Central/11am ET (17:00 CEST)! Join us to hear about:
+   - LFPH’s first two years,
+   - our projects and accomplishments,
+   - our strategic approach for 2022, and
+   - new projects that are in development.
+- Everyone is welcome to attend and learn more! Register [here](https://bit.ly/3qRS0V2) (https://bit.ly/3qRS0V2).
+- In the last month, the TAC has approved several new projects for LFPH that they will be initiating in Q1/Q2!
+   - Maternal Mental Health Database (Florida State University)
+   - Public Health Data Mesh (Cisco)
+   - Consent Service Utility (SOCI)
+  
 :crystal_ball: For #cardea:
-The Cardea Interop-a-thon 2 was held on March 17! Please see [our LFPH blog post](https://www.lfph.io/2022/03/31/member-profile-series-looking-back-on-cardeas-second-successful-interop-a-thon-indicio%ef%bf%bc/?utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN) with more details on the event and next steps.
-The date for Cardea’s digital health credentials demo day is Thursday, April 7, at 11am Central/12 noon ET (18:00 CEST). Participants will have the opportunity to test different vendor solutions interoperating with the Cardea reference implementation, test out of band invitations, and test machine readable governance. Sign up [here](https://lists.lfph.io/g/cardea?utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN).
-The Cardea Interop-a-thon 2 retrospective webinar will be hosted on Tuesday, April 19, 11am Central/12 noon ET (18:00 CEST): be sure to register [here](https://bit.ly/3qWXvBN).
+
+- The Cardea Interop-a-thon 2 was held on March 17! Please see [our LFPH blog post](https://www.lfph.io/2022/03/31/member-profile-series-looking-back-on-cardeas-second-successful-interop-a-thon-indicio%ef%bf%bc/?utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN) with more details on the event and next steps.
+- The date for Cardea’s digital health credentials demo day is Thursday, April 7, at 11am Central/12 noon ET (18:00 CEST). Participants will have the opportunity to test different vendor solutions interoperating with the Cardea reference implementation, test out of band invitations, and test machine readable governance. Sign up [here](https://lists.lfph.io/g/cardea?utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN).
+- The Cardea Interop-a-thon 2 retrospective webinar will be hosted on Tuesday, April 19, 11am Central/12 noon ET (18:00 CEST): be sure to register [here](https://bit.ly/3qWXvBN).
+
 :closed_book: F️or #cci:
-CCI is moving out of LFPH to form an independent LF project that focuses on community building and standardization efforts and will continue working with LFPH as sister projects. More information to be announced through the [CCI community newsletter](https://us10.campaign-archive.com/home/?u=1e21ad08ed0422a5dac0b8eed&id=ebe791efe9&utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN).
+- CCI is moving out of LFPH to form an independent LF project that focuses on community building and standardization efforts and will continue working with LFPH as sister projects. More information to be announced through the [CCI community newsletter](https://us10.campaign-archive.com/home/?u=1e21ad08ed0422a5dac0b8eed&id=ebe791efe9&utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN).
+
 :balloon: F️or #gccn-trust-registry-network:
-The LFPH team is working with partners to complete a Proof-of-Concept (PoC) of the [GCCN Trust Registry Network](https://docs.google.com/presentation/d/1hZbdzKz-wuKRNs_4XQkCgVQCIkJjCFd6zsDpOOZMIZM/edit?usp=sharing&utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN) to showcase viability of the technology and basic functionalities of the Network. Stay tuned for more details of the PoC or participate in the next [GCCN community call](https://lists.lfph.io/g/gccn/viewevent?eventid=1480509&calstart=2022-04-07&utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN) to learn more.
+- The LFPH team is working with partners to complete a Proof-of-Concept (PoC) of the [GCCN Trust Registry Network](https://docs.google.com/presentation/d/1hZbdzKz-wuKRNs_4XQkCgVQCIkJjCFd6zsDpOOZMIZM/edit?usp=sharing&utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN) to showcase viability of the technology and basic functionalities of the Network. Stay tuned for more details of the PoC or participate in the next [GCCN community call](https://lists.lfph.io/g/gccn/viewevent?eventid=1480509&calstart=2022-04-07&utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN) to learn more.
+
 :necktie: The rest of the community is quietly working away on their projects. More next week!
+
 // As always, thank you to all of our contributors and community members! Please contact #community-ops or post here (in a thread, please) with any questions or additions to these updates.
 
 ## March 25, 2022
 
 :strawberry:For #tac:
-Main update: the TAC is looking for people to present at upcoming meetings, either about their own projects, cool opensource in healthcare, new project ideas, or problems in healthcare they see!
-Please reach out to me at adamf@vmware.com to discuss presentation slots. Usually they are 20 mins, followed by 10 mins Q&A.
+- Main update: the TAC is looking for people to present at upcoming meetings, either about their own projects, cool opensource in healthcare, new project ideas, or problems in healthcare they see!
+- Please reach out to me at adamf@vmware.com to discuss presentation slots. Usually they are 20 mins, followed by 10 mins Q&A.
 
 :blossom:F️or LFPH:
-We are excited to announce that LFPH has completed Memorandums of Understanding (MOUs) with the Michigan Health Information Network (MiHIN) and Digital Twin Consortium (DTC).
-University of Texas, University of Rochester and Florida State University will also be joining in a new Academic Medical Center consortium to address digital health equity.
-Jim St. Clair (executive director) attended HLTH VIVE on March 6-9 and HIMSS on March 14-18. He presented on Digital Twins in healthcare, eConsent, health equity in communities, and cybersecurity.
+- We are excited to announce that LFPH has completed Memorandums of Understanding (MOUs) with the Michigan Health Information Network (MiHIN) and Digital Twin Consortium (DTC).
+- University of Texas, University of Rochester and Florida State University will also be joining in a new Academic Medical Center consortium to address digital health equity.
+- Jim St. Clair (executive director) attended HLTH VIVE on March 6-9 and HIMSS on March 14-18. He presented on Digital Twins in healthcare, eConsent, health equity in communities, and cybersecurity.
 
 :bouquet:The rest of the community is quietly working away on their projects. More next week!
 
 ## March 18, 2022
 
 :sunrise_over_mountains: For #tac:
-Main update: A presentation this week around an idea for a "k8s for healthcare" project.
-There was good discussion on this and the TAC would like to hear from people/PHA/ISVs/projects that are targeting Kubernetes in healthcare. Be sure to follow up on the #tac channel
-Video recording link on the TAC website: https://youtu.be/yUNGIYPDBWU
+- Main update: A presentation this week around an idea for a "k8s for healthcare" project.
+- There was good discussion on this and the TAC would like to hear from people/PHA/ISVs/projects that are targeting Kubernetes in healthcare. Be sure to follow up on the #tac channel
+- Video recording link on the TAC website: https://youtu.be/yUNGIYPDBWU
 
 :night_with_stars: For #cardea:
-The Cardea Interop-a-thon was held on March 17 (Thursday)! We will post more updates and learnings from this event over the coming days and weeks.
+- The Cardea Interop-a-thon was held on March 17 (Thursday)! We will post more updates and learnings from this event over the coming days and weeks.
 
 :boat:F️or LFPH:
-We are excited to host our monthly webinar next week on Monday, March 21 at 8am Pacific/11am Eastern/16:00 CET: “AI Cybersecurity in Healthcare: Understanding the Opportunities and Challenges.”
-Our speakers include Jim Dempsey, from the Stanford Cyber Policy Center, as well as Dr. Beat Buesser, IBM Research Europe, and Jim St. Clair, Executive Director of LFPH.
-Please register here: https://www.lfph.io/webinars/ai-cybersecurity-in-healthcare-understanding-the-opportunities-and-challenges/
+- We are excited to host our monthly webinar next week on Monday, March 21 at 8am Pacific/11am Eastern/16:00 CET: “AI Cybersecurity in Healthcare: Understanding the Opportunities and Challenges.”
+- Our speakers include Jim Dempsey, from the Stanford Cyber Policy Center, as well as Dr. Beat Buesser, IBM Research Europe, and Jim St. Clair, Executive Director of LFPH.
+- Please register here: https://www.lfph.io/webinars/ai-cybersecurity-in-healthcare-understanding-the-opportunities-and-challenges/
 
 :fireworks: The rest of the community is quietly working away on their projects. More next week!
 
 ## March 11, 2022
 
 :herald: For #herald-general:
-A new version of herald-analysis (an R library script with examples) will be released that includes a working approach to phone Bluetooth signal strength self-calibration based on data collected from the Herald demo app.
-This uses ideas from Proxemics to self-calibrate a phone based on a persons interactions with other humans - close contacts, acquaintances, and people passing nearby. Calibrating these common contact proximities on a person’s phone makes risk scoring more accurate, and also calibrates to things due to their behavior, such as always placing their phone the same way in their pocket or bag.
-Initial testing shows after calibration, the two mutual contacts’ risk scores were within 7.5% of each other!
-These calibrations can be further tuned from ‘norms’ in particular societies, if required. We’re going to trial it further before creating a Social Mixing Score UI component in Herald for other app developers to use. The mechanism itself and an example will be in the next version of the Herald API, as part of the Risk and Exposure API examples.
-Description here: https://github.com/theheraldproject/herald-analysis#phone-self-calibration-scripts
-Full blog post detailing the above here: https://heraldprox.io/blog/self-calibration
+- A new version of herald-analysis (an R library script with examples) will be released that includes a working approach to phone Bluetooth signal strength self-calibration based on data collected from the Herald demo app.
+- This uses ideas from Proxemics to self-calibrate a phone based on a persons interactions with other humans - close contacts, acquaintances, and people passing nearby. Calibrating these common contact proximities on a person’s phone makes risk scoring more accurate, and also calibrates to things due to their behavior, such as always placing their phone the same way in their pocket or bag.
+- Initial testing shows after calibration, the two mutual contacts’ risk scores were within 7.5% of each other!
+- These calibrations can be further tuned from ‘norms’ in particular societies, if required. We’re going to trial it further before creating a Social Mixing Score UI component in Herald for other app developers to use. The mechanism itself and an example will be in the next version of the Herald API, as part of the Risk and Exposure API examples.
+- Description here: https://github.com/theheraldproject/herald-analysis#phone-self-calibration-scripts
+- Full blog post detailing the above here: https://heraldprox.io/blog/self-calibration
 
 :pineapple: For #cardea:
-Save the date and sign up for the second Cardea Interop-a-thon.
-March 17, 8am to 12 noon MST (-7:00 UTC)
-In addition to providing an opportunity testing agents, wallets, and networks, we’ll be focusing on out-of-band invitations and machine readable governance. Code for download will be available on Feb 24. Office hours for help with implementation and technical details on Cardea.app
-Anyone using Hyperledger Aries agents welcome to participate ahead of the switchover on March 31.
-Please RSVP by COB March 15 on https://cardea.app (scroll past the fold)
+- Save the date and sign up for the second Cardea Interop-a-thon.
+  - March 17, 8am to 12 noon MST (-7:00 UTC)
+- In addition to providing an opportunity testing agents, wallets, and networks, we’ll be focusing on out-of-band invitations and machine readable governance. Code for download will be available on Feb 24. Office hours for help with implementation and technical details on Cardea.app
+- Anyone using Hyperledger Aries agents welcome to participate ahead of the switchover on March 31.
+- Please RSVP by COB March 15 on https://cardea.app (scroll past the fold)
 
 ## February 18, 2022
 
 :earth_africa: For LFPH:
-We just completed a [webinar with member MTX on mental health post-COVID 19](https://youtu.be/n8ht26gvoR0). 
-Meeting of the #tac approved a new project with Cisco, the Public Health Data Mesh. [Meeting recording available here](https://youtu.be/cze07MRg9KY).
+- We just completed a [webinar with member MTX on mental health post-COVID 19](https://youtu.be/n8ht26gvoR0). 
+- Meeting of the #tac approved a new project with Cisco, the Public Health Data Mesh. [Meeting recording available here](https://youtu.be/cze07MRg9KY).
 
 :cactus: For #cci:
-On Feb 22 at 7 am PT / 3 pm UTC, our [Global Implementation Forum](https://covidcreds.groups.io/g/global-implementation-forum/viewevent?repeatid=41026&eventid=1359809&calstart=2022-02-22) will host @Chatchai from [Finema](https://finema.co/), to present on the [Thailand Pass](https://tp.consular.go.th/), which the company developed for the Thai government to reopen travel. Chatchai is one of our newly elected Steering Committee members.
+- On Feb 22 at 7 am PT / 3 pm UTC, our [Global Implementation Forum](https://covidcreds.groups.io/g/global-implementation-forum/viewevent?repeatid=41026&eventid=1359809&calstart=2022-02-22) will host @Chatchai from [Finema](https://finema.co/), to present on the [Thailand Pass](https://tp.consular.go.th/), which the company developed for the Thai government to reopen travel. Chatchai is one of our newly elected Steering Committee members.
 
 :pineapple: For #cardea:
-Save the date and sign up for the second Cardea Interop-a-thon.
-March 17, 8am to 12 noon MST (-7:00 UTC)
-In addition to providing an opportunity testing agents, wallets, and networks, we’ll be focusing on out-of-band invitations and machine readable governance. Code for download will be available on Feb 24. Office hours for help with implementation and technical details on Cardea.app
-Anyone using Hyperledger Aries agents welcome to participate ahead of the switchover on March 31.
-Please RSVP by COB March 15 on [https://cardea.app](https://cardea.app/) (scroll past the fold)
+- Save the date and sign up for the second Cardea Interop-a-thon.
+  - March 17, 8am to 12 noon MST (-7:00 UTC)
+- In addition to providing an opportunity testing agents, wallets, and networks, we’ll be focusing on out-of-band invitations and machine readable governance. Code for download will be available on Feb 24. Office hours for help with implementation and technical details on Cardea.app
+- Anyone using Hyperledger Aries agents welcome to participate ahead of the switchover on March 31.
+- Please RSVP by COB March 15 on [https://cardea.app](https://cardea.app/) (scroll past the fold)
 
 
 ## February 10, 2022
