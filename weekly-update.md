@@ -1,5 +1,53 @@
 # Weekly Updates
 
+## May 27, 2022
+
+🎏 For #cardea:
+- We're happy to announce the next Interop-a-thon will take place June 16, 2022, 8:00am-12:00pm MST. You can find a blog with further details about this event posted on the Indicio blog [here](https://indicio.tech/the-cardea-interop-a-thon-returns-and-heres-why-you-should-participate/).
+- To participate in the Interop-a-thon: Anyone developing a Hyperledger Aries compatible solution is welcome to join and test their solution against other participants: [Please register to participate here](https://docs.google.com/forms/d/e/1FAIpQLScth275phIVSZfPewkBiY1Vzf0p2U_XHq3iKNrraz_a0LRoSw/viewform?usp=send_form)
+- To view the Interop-a-thon: Anyone that would like to watch the proceedings is welcome to register using the zoom link found [here](https://us02web.zoom.us/meeting/register/tZcldOmuqD8qHtVKaolSDgAmGjQbgPr7d_q3). (Note: this is a unique and different zoom link than we typically use for community meetings)
+- Please share this with anyone in your networks that may be interested. We are hoping to reach far and wide to get as many participants as possible! See you there!
+
+📚 The rest of the community is quietly working away on their projects. More next week!
+
+## May 20, 2022
+
+:tea: For #tac:
+- There is a new project proposal, Kubernetes for Healthcare, that is open for comments! Proposed by Adam Fowler as LFPH TAC Chair, based on observed needs from projects and healthcare PHAs/ISVs.
+- For those who would like to give feedback, please comment on this public Google doc, which is now on the LFPH TAC Google Drive: https://docs.google.com/document/d/102KHa0xITjBq2QOzbNvjF_IQMKBUWNCnHRAIFUpUZOQ/edit?usp=sharing
+- Note also the shared Miro board here (zoom out for wider details): https://miro.com/app/board/uXjVOEDQnUM=/?moveToWidget=3458764522561973565&cot=14
+- There is no creation vote scheduled yet for this project proposal.
+
+:honey_pot: For #cardea:
+- The next Interop-a-thon will take place Thursday, June 16. More information will be released on Monday.
+- This is an excellent opportunity for anyone building Hyperledger Aries compatible agents to test against the Cardea reference implementation. This will include Machine Readable Governance, out of band connections and basic message protocol. Sign up at https://lists.lfph.io/g/cardea for registration links and further information.
+
+:bowl_with_spoon: The rest of the community is quietly working away on their projects. More next week!
+
+## May 13, 2022
+
+:lollipop: For LFPH and GCCN:
+- We had a successful webinar on #gccn-trust-registry-network this week demonstrating the outcomes of the Proof-of-Concept. We recommend anyone who is seeking a comprehensive but simple explanation of the what, why and how of the GCCN Trust Registry Network to check out the [recording](https://www.lfph.io/webinars/gccn-trust-registry-network-proof-of-concept-demonstration-and-qa/) if you were not able to attend the webinar live.
+
+:first_place_medal: For #cardea:
+- Congratulations to SITA (image below), the leading contributor to the Cardea codebase, for winning the Decentralized Identity and Verifiable Credentials award at the European Identity & Cloud conference in Berlin. KuppingerCole Analysts presented Adrien Sanglier the award in recognition for their project with the Government of Aruba, built in partnership with Indicio, and the first public reference implementation for Cardea.
+The community meeting focused on creating a draft roadmap for the THIRD Cardea Interop-a-thon that will take place next month. Stay tuned for further details.
+
+![image-sita](https://user-images.githubusercontent.com/97830491/170882618-1bfce801-8643-44b2-9e7f-d47175a8a550.png)
+
+:bamboo:The rest of the community is quietly working away on their projects. More next week!
+
+## May 6, 2022
+
+:candy: For GCCN:
+- Please be sure to register for our GCCN Trust Registry Network Proof-of-Concept Demonstration and Q&A webinars in the upcoming week, [May 10, 2022 at 8 am ET / 2 pm CEST](https://www.lfph.io/webinars/gccn-trust-registry-network-proof-of-concept-demonstration-and-qa/), and [May 11, 2022 at 7 pm PT / (+1d) 10 am HKT](https://www.lfph.io/webinars/gccn-trust-registry-network-proof-of-concept-demonstration-and-qa-may-11/), for a live demo and Q&A session. We are excited to:
+  - Introduce why the GCCN Trust Registry Network is important and necessary to addressing the trust management issues of the fragmented COVID certificate space
+  - Demonstrate how the GCCN Trust Registry Network works through the technical components developed during the POC
+  - Share the upcoming plan for the GCCN Trust Registry Network and recent developments related to its implementations
+  - Answer any questions you have about the GCCN Trust Registry Network and how one can get involved
+
+:shaved_ice: The rest of the community is quietly working away on their projects. More next week!
+
 ## April 29, 2022
 
 :bread: For LFPH:
@@ -90,8 +138,6 @@
 - The LFPH team is working with partners to complete a Proof-of-Concept (PoC) of the [GCCN Trust Registry Network](https://docs.google.com/presentation/d/1hZbdzKz-wuKRNs_4XQkCgVQCIkJjCFd6zsDpOOZMIZM/edit?usp=sharing&utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN) to showcase viability of the technology and basic functionalities of the Network. Stay tuned for more details of the PoC or participate in the next [GCCN community call](https://lists.lfph.io/g/gccn/viewevent?eventid=1480509&calstart=2022-04-07&utm_campaign=LF%20Public%20Health%20-%20Newsletter&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXUWH8H_6VcSc0Ag2sheatB2cYaNx_Xx64Sm_XQ0XNzrLch4oopVVsdHsUynB32nCNnN) to learn more.
 
 :necktie: The rest of the community is quietly working away on their projects. More next week!
-
-// As always, thank you to all of our contributors and community members! Please contact #community-ops or post here (in a thread, please) with any questions or additions to these updates.
 
 ## March 25, 2022
 
