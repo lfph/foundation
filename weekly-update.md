@@ -1,5 +1,55 @@
 # Weekly Updates
 
+## June 24, 2022
+
+:tomato: For LFPH and #tac:
+- JUNE 30 WEBINAR: Be sure to attend our upcoming webinar, Surfacing Intellectual and Developmental Disabilities in Healthcare Data (with Mai Pham, MD, MPh, Institute for Exceptional Care). Learn how identifying IDD in patient data connects to quality of patient care, and about challenges and opportunities in the IDD-healthcare data space. Registration here: https://bit.ly/3OiR5GQ
+- The Kubernetes for Health project has been proposed in yesterday's TAC! See the post in #tac for a link to the presentation (in the TAC presentation itself). Project Herald is seeing further adoption for IoT interlinks which will enable Smart Hospital use cases. We're also always looking for people to drop in with project ideas or gaps they've spotted where they wish there was a project, so please join upcoming TAC calls to chat about needs!
+- LFPH had an article published in Public Health Reports last week, going through the story of how exposure notifications came to the US - "[A Brief History of Exposure Notification During the COVID-19 Pandemic in the United States, 2020-2021](https://journals.sagepub.com/doi/10.1177/00333549221099533)"
+- The next meeting of the Disease Investigation Technology Collaborative is on Tuesday! We'll be discussing the surveillance tech needs of local public health authorities. If you work at a PHA and would like to join, you can register here: lfph.io/ditc
+
+:avocado: For #cardea:
+
+- Please see the recent blog post on the LFPH blog by Trevor Butterworth, [Sharing Health Data while Preserving Privacy: The Cardea Project](https://www.lfph.io/2022/06/21/sharing-health-data-while-preserving-privacy-the-cardea-project/). The blog post provides an introduction and overview of Cardea's [recent whitepaper](https://cardea.app/wp-content/uploads/2022/06/Cardea-White-Paper-V1.0.pdf).
+
+:mango: The rest of the community is quietly working away on their projects. More next week!
+
+## June 17, 2022
+
+:soccer: For LFPH:
+
+- JUNE 30 WEBINAR: Be sure to attend our upcoming webinar, Surfacing Intellectual and Developmental Disabilities in Healthcare Data (with Mai Pham, MD, MPh, Institute for Exceptional Care). Learn how identifying IDD in patient data connects to quality of patient care, and about challenges and opportunities in the IDD-healthcare data space. Registration here: https://bit.ly/3O0Afwg
+- LFPH and the Stewards of Change Institute (SOCI) presented the Consent Services Utility project under development to the European Social Services Conference in Hamburg DE last Wednesday. This includes potential development for Cardea.
+- LFPH had a two hour meeting with the WHO Open Source Program Office (OSPO) in Berlin. Additional follow ups, to include presentations with LFPH.
+- Planning continues for a colocated LFPH event as part of OSS EU in Dublin Sept 12-14.
+
+:table_tennis_paddle_and_ball: For #cardea:
+
+- Cardea held its third Interop-a-thon yesterday, with 7 participating organizations! It was a resounding success and a great learning experience as well. To view the wrap-up report, please click here: https://docs.google.com/presentation/d/1qvYXzctjbwf-rXIozIm_0hxXEp9MMjLMzAbows6tGN0/edit?usp=sharing
+
+:basketball: The rest of the community is quietly working away on their projects. More next week!
+
+## June 10, 2022
+
+:bamboo: For #cardea:
+
+- The Interop-a-thon will take place this upcoming Thursday, June 16, 2022, 8:00am-12:00pm MST. You can find a blog with further details about this event posted on the Indicio blog [here](https://indicio.tech/the-cardea-interop-a-thon-returns-and-heres-why-you-should-participate/).
+- To participate in the Interop-a-thon: Anyone developing a Hyperledger Aries compatible solution is welcome to join and test their solution against other participants: [Please register to participate here](https://docs.google.com/forms/d/e/1FAIpQLScth275phIVSZfPewkBiY1Vzf0p2U_XHq3iKNrraz_a0LRoSw/viewform?usp=send_form)
+- To view the Interop-a-thon: Anyone that would like to watch the proceedings is welcome to register using the zoom link found [here](https://us02web.zoom.us/meeting/register/tZcldOmuqD8qHtVKaolSDgAmGjQbgPr7d_q3). (Note: this is a unique and different zoom link than we typically use for community meetings)
+
+:sun_with_face: For #tac:
+
+- Carole Corley, TAC representative for IBM Watson Health and Senior Technical Staff Member, IBM, proposed a project today called "LinuxForHealth." The project would transform and analyze healthcare data in-place on enterprise networks: please see a recording of her presentation [here](https://youtu.be/Qcb_WU5ybjI?t=424). We would anticipate beneficial synergy between this project and the recent Kubernetes for Healthcare proposal, with each proposal remaining separate.
+- We encourage you to make comments and give any feedback on the LinuxForHealth proposal Google Doc here: https://docs.google.com/document/d/1RxliUxqbmc6DhHgEPZ3AhAPUDKzNqM4I
+
+:first_quarter_moon_with_face: The rest of the community is quietly working away on their projects. More next week!
+
+## June 3, 2022
+
+:cherries: For #tac:
+- As mentioned above, Adam has submitted a proposal to the Open Source Summit Europe (Dublin 13-16 Sep 2022) for healthcare innovations from COVID being applied more widely. The proposal was submitted as an Emerging OS Forum Public Health/COVID session. https://events.linuxfoundation.org/open-source-summit-europe/program/cfp/#suggested-topics
+:carrot: The rest of the community is quietly working away on their projects. More next week!
+
 ## May 27, 2022
 
 🎏 For #cardea:
