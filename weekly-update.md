@@ -1,5 +1,150 @@
 # Weekly Updates
 
+## September 16, 2022
+
+:mega: For LFPH and #tac:
+- LFPH and the #tac are at the Open Source Summit Europe Conference! 
+- @Adam from #tac reports: "Conference going very well. Talked to Zephyr team and other attendees about Healthcare, including reps from Irish Government departments. LFPH mini summit on the Monday was well attended with some great talks from Irish Gov and WHO. Herald-centred ‘Lessons learnt from COVID-19 and how they will help healthcare’ went well."
+- "Do let people know who want to talk healthcare to come talk to me on the VMware or Open::UK booths (both near each other!) as I’m hanging around both of them!"
+- NEXT WEEK: We are excited to host our next webinar on Tuesday, September 20 with the U.S. Centers for Medicare & Medicaid Services (CMS), "[Modernizing Healthcare at the Federal Level with Open Source](https://bit.ly/3wJFM3M)". Join our webinar to learn about CMS’ open source goals, projects, and future plans, presented by leaders from the CMS Digital Service. As always, there will be a Q&A session for you to ask questions to CMS leaders and implementers.
+- Topics will include:
+  - Overview of the CMS Digital Services
+  - Goals and objectives of digital transformation at CMS
+  - The role of open source software in CMS
+  - Planned future initiatives
+- Register [here](https://bit.ly/3wJFM3M)!
+
+:ladybug: The rest of the community is quietly working away on their projects. More next week!
+
+## September 9, 2022
+
+:crystal_ball: For #cardea:
+- The Cardea community spent time assigning issues to individual contributors in the Cardea Extension Use Cases project in GitHub formulating a tentative roadmap for future project enhancements. https://github.com/orgs/thecardeaproject/projects/1
+:candy: For #tac:
+- Be sure to post in the #tac channel if you have any upcoming open-source project ideas that you want to present for comments, suggestions, or feedback. For more information, please reach out to @Adam Fowler!
+
+:gem: The rest of the community is quietly working away on their projects. More next week!
+
+## September 2, 2022
+
+:star: For LFPH:
+- We are thrilled to host our next webinar on September 20 with the U.S. Centers for Medicare & Medicaid Services (CMS), "[Modernizing Healthcare at the Federal Level with Open Source](https://bit.ly/3wJFM3M)". Join our webinar to learn about CMS’ open source goals, projects, and future plans, presented by leaders from the CMS Digital Service. As always, there will be a Q&A session for you to ask questions to CMS leaders and implementers.
+- Topics will include:
+  - Overview of the CMS Digital Services
+  - Goals and objectives of digital transformation at CMS
+  - The role of open source software in CMS
+  - Planned future initiatives
+- Register [here](https://bit.ly/3wJFM3M)!
+:bulb: For #tac:
+- Be sure to post in the #tac channel if you have any upcoming open-source project ideas that you want to present for comments, suggestions, or feedback. For more information, please reach out to @Adam Fowler!
+:crown: For #herald-general:
+- The Herald Team :herald: has recently released v2.1.0-beta2 of the Herald for iOS API! This includes Analysis API improvements to allow a team from [Operation Outbreak](https://operationoutbreak.org/), a Herald powered application since last year, to develop and test new risk scoring and distance conversion algorithms.
+- The full v2.1.0 final release will include the whole Data Analysis API, a memory, compute and battery efficient live data analysis and aggregation mechanism (as in mathematical - i.e. statistical summaries over time periods) of proximity and other sensor data capture my mobile phones or wearables. Particularly useful for long term monitoring of a patient's condition with a wearable or mobile device connected to Bluetooth devices.
+- The full v2.1.0 release will also include the first implementation of Bluetooth MESH in Herald for Smart Hospitals (C++ repository only) with demonstration beacon apps and a link to RabbitMQ for command and control and data publishing (I.e. to power a "Where's my syringe pusher?" app for hospitals!). The v2.1.0 full release will include a preview of the General Purpose Distributed Messaging Protocol (GPDMP - I'm still bad at naming things) across all of embedded (C++), iOS and Android Herald API, which can be used as a Bluetooth low-energy only distributed secure message passing mechanism for civil emergencies. This is important as it means low cost and older devices from 2011 until now can participate in civil emergency message receipt and passing.
+- You can read the iOS v2.1.0-beta2 release notes here: https://github.com/theheraldproject/herald-for-ios/releases/tag/v2.1.0-beta2 or from our CocoaPod here: https://cocoapods.org/pods/Herald
+
+:sunny: The rest of the community is quietly working away on their projects. More next week!
+
+## August 26, 2022
+
+🚁 For LFPH:
+- Please keep your ears open for new webinars coming up!
+- Our September webinar will be hosted with thought leaders from Centers for Medicare & Medicaid Services (CMS)! More details and registration coming soon.
+🚀 For #cardea:
+- Cardea formalized the issue tracking and set up the digital project plan in the public Cardea Github for our next two use cases: Vaccination requirements for educational institutions, Healthcare TB Testing for Healthcare Workers. Links can be found on the Cardea Github.
+
+🛸 The rest of the community is quietly working away on their projects. More next week!
+
+## August 19, 2022
+
+🐬 For LFPH:
+- We will soon be announcing upcoming webinars for the next months! (For August, we will be taking a break from webinars due to summer vacation.)
+🐋 For #cardea:
+- Cardea created a list of thought leadership, use cases, and content that will be produced in upcoming months. This information will be posted on a new Cardea blog and will be combined with speaking events, briefing materials, and SEO efforts to better highlight the project to new Cardea project contributors and adopters, specifically targeting HIEs, public sector agencies, and private organizations looking for new secure, privacy-preserving health technologies.
+
+🦈 The rest of the community is quietly working away on their projects. More next week!
+
+## August 12, 2022
+
+💎 For LFPH:
+- NEXT WEEK: Be sure to attend the (HealthIT.Gov)[http://healthit.gov/] "Discovery Workshop on eConsent: From Birth to End of Life" on 16 August! LFPH Executive Director Jim St. Clair will be presenting in the second half of the workshop: https://www.healthit.gov/news/events/discovery-workshop-econsent-birth-end-life
+LFPH contributed to our second academic article Open Source Software for Public Health: Opportunities and Approaches published in the Journal of Sexually Transmitted Diseases. You can read the article here.
+🎀 For #cardea:
+- This week, the Cardea community had a lively discussion about consent as it relates to sharing health data and created a list of requirements and challenges to consider when it comes to designing consent schemas.
+
+👑 The rest of the community is quietly working away on their projects. More next week!
+
+## August 5, 2022
+
+🍓 For LFPH:
+- Be sure to check out our recent blog post on the LFPH blog, [Public-private partnerships in health: The journey ahead for open source](https://www.lfph.io/2022/07/29/public-private-partnerships-in-health-the-journey-ahead-for-open-source/), in which we dive into three key topics: reimagining partnerships; sustainability and governance; and design for the future of public health.
+🥕 For #cardea:
+- This week, Cardea provided an introduction to the foundational concepts that are housed in the project. They also drafted schemas for a new derivative credential to facilitate project extension use cases beyond COVID-19.
+
+🧀 The rest of the community is quietly working away on their projects. More next week!
+
+## July 29, 2022
+
+🔮 For LFPH:
+- LFPH held a great conversation at the Disease Investigation Technology Collaborative this week about state surveillance systems and LPHA involvement. One of the key themes that came out was how much funding patterns affect both how states involve LPHAs in design decisions and on what they choose to build.
+- LFPH has recently become a member of the California Consortium of the ONC sponsored Public health Informatics Training (CCPHIT) program. This program sponsors 10 education consortiums to improve PHI training in Higher Ed.
+- LFPH welcomed the Center for Medicare and Medicaid Services (CMS) as members of the LFPH Slack and will be meeting about their open source strategy.
+- The Ontario Brain Institute (OBI) has joined LFPH as an associate member.
+📚 For #cardea:
+- Cardea renamed the ardea agents and schemas in the codebase to prepare for upcoming expansion of Cardea use cases beyond the initial Covid/travel use case that Cardea was initially focused on.
+- Working Group Chairs @Keela Rose Shatzkin and @Ken Ebert also presented an excellent overview of Cardea as part of the monthly [Indicio Identity Community Meetup group](https://www.meetup.com/indicio-identity-community/events/).
+- @Rj Reiser from Cardea community member (Liquid Avatar)[https://liquidavatartechnologies.com/] also participated in that event and demonstrated the Liquid Avatar wallet, based on Cardea codebase, interacting with the Cardea health information issuer and verifier agent showing how interoperability can be accomplished using the Cardea codebase. View the recording (here)[https://youtu.be/ruhnyMTqNog]!
+
+🌎 The rest of the community is quietly working away on their projects. More next week!
+
+## July 22, 2022
+
+🥠 For LFPH:
+- We held an excellent webinar this week, "Championing Open-Source in International Public Health: WHO and GitHub," with a special appearance from the TODO Group. Be sure to check out our recording [here](https://bit.ly/3czEW2a)!
+🎕 For #cardea:
+- Cardea spent time this week discussing how to lower the barrier of entry for newcomers to the community though the use of easy to translate pitch decks, a new blog on Cardea.app with regularly updated materials, and further speaking engagements at events that target the health information exchange (HIE) communities. On Tuesday, July 26 at 12pm ET, Cardea working group chairs @Keela Rose Shatzkin, @Ken Ebert will be presenting Cardea at the [Indicio Identity Community Meetup](https://www.meetup.com/indicio-identity-community/events/287210168/), along with @Mike Ebert and @Rj Reiser who will be demonstrating the Cardea health information work flow using the Liquid Avatar Wallet. Registration is required: https://indicio-tech.zoom.us/meeting/register/tZEscOqvqTotEtFAzVHNrhyFXR7Ch6-NNMkf
+🦜 For #cci:
+- The CCI Community is [hosting a presentation next week on a whitepaper](https://covidcreds.groups.io/g/global-implementation-forum/viewevent?eventid=1592790&calstart=2022-07-26): The Global Open Health Movement: Empowering People and Saving Lives by Unlocking Data ([working draft](https://openid.net/wordpress-content/uploads/2022/06/OIDF-and-the-Health-Whitepaper-June-21.pdf)). It “has been written for technologists in the public and private health sectors that are trying to deliver ‘Open Health’, enabling people to access and share interoperable health data between entities within a health ecosystem.” Debbie Bucci, the Chief Data Officer, at Equideum Health (formerly Consensus Health), an LFPH member, will present on this whitepaper work she is leading at the OpenID Foundation.
+
+⸙ The rest of the community is quietly working away on their projects. More next week!
+
+## July 15, 2022
+
+🥧 For LFPH:
+- NEXT WEEK (JULY 20): Join the 100+ registrants for our upcoming webinar, in partnership with WHO and GitHub, held on 20 July at 10am ET/16:00 CEST.
+The focus is on open-source public health efforts in WHO, the UN’s international public health agency. WHO is the first UN agency to launch an open-source program office (OSPO).
+- We invite you to hear from Ayman Badr, Programme Manager at WHO; Dušan Milovanović, Health Intelligence Architect at WHO; and Mala Kumar, Github’s Director of Tech for Social Good.
+- Click [here](https://bit.ly/3aqwTnU) (https://bit.ly/3aqwTnU) for more information and to register.
+🍡 For #cardea:
+- This week, the Cardea community collaborated to create a technical roadmap for next steps of the Cardea project extension that would allow for the privacy preserving sharing of a variety of health data between medical labs, patients, and verifying parties. Next week, we will discuss communication and marketing efforts to allow for the lowest barrier of entry for newcomers to the Cardea community.
+
+🍬 The rest of the community is quietly working away on their projects. More next week!
+
+## July 8, 2022
+
+🧲 For LFPH:
+- JULY 20 WEBINAR: We are excited to announce our next webinar in partnership with WHO and GitHub, "Championing Open-Source in International Public Health," held on 20 July at 10am ET/16:00 CEST.
+- The focus is on open-source public health efforts in WHO, the UN’s international public health agency. WHO is the first UN agency to launch an open-source program office (OSPO).
+- We invite you to hear from Ayman Badr, Programme Manager at WHO; Dušan Milovanović, Health Intelligence Architect at WHO; and Mala Kumar, Github’s Director of Tech for Social Good.
+- Click [here](https://bit.ly/3aqwTnU) (https://bit.ly/3aqwTnU) for more information and to register for the webinar.
+🧰 For #cardea:
+- In the Cardea meeting this week, the participants spoke about the extensibility of the Cardea codebase into other use cases including Health certification for University or work, Immunization proofs, employee health requirements, drug testing, and other types of digital health information. This conversation will continue as Cardea prepares for the next interop-a-thon that will be held in the Fall.
+
+🖍 The rest of the community is quietly working away on their projects. More next week!
+
+## July 1, 2022
+
+🌊 For LFPH and #tac:
+- We hosted a fantastic webinar this week, "[Surfacing Intellectual and Developmental Disabilities in Healthcare Data: Opportunities and Risks for a Vulnerable Population](https://www.lfph.io/webinars/surfacing-intellectual-and-developmental-disabilities-in-healthcare-data-opportunities-and-risks-for-a-vulnerable-population/)", with Mai Pham, Institute for Exceptional Care. Please find the webinar recording at the link above.
+LFPH and the Digital Public Goods Alliance (DPGA) met this week to discuss joint membership and promotion of the [Digital Public Goods Charter](https://www.dpgcharter.org/). Look for more in July and our event in Dublin at OSS EU.
+:snorkel: For #cardea:
+- Please see Trevor Butterworth's recent blog post, referencing the recent Cardea whitepaper, posted on LinkedIn [here](https://www.linkedin.com/pulse/cardea-verifiable-credential-solution-health-data-trevor-butterworth/?trackingId=kesS0T8sTJWK00tTdl1KIQ%3D%3D).
+⛵ For #cci:
+- The CCI Community Forum is moving out of the LFPH Slack to a new Discord space. To follow the ongoing CCI activities and community discussions, join [here](https://discord.gg/UnwTqDv7Bd). All are welcome!
+
+🎣 The rest of the community is quietly working away on their projects. More next week!
+
+
 ## June 24, 2022
 
 :tomato: For LFPH and #tac:
