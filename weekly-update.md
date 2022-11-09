@@ -1,5 +1,92 @@
 # Weekly Updates
 
+## November 4, 2022
+
+:apple: For LFPH:
+- Recordings for our recent webinars are now available:
+- OCT 26 WEBINAR: "[The Next Generation of Neuro-Health Data Sharing](https://www.lfph.io/webinars/the-next-generation-of-neuro-health-data-sharing/)" with Ontario Brain Institute
+- NOV 1 WEBINAR: "[Taking Veterans Affairs to the Cloud: The VA Care Cloud Project](https://www.lfph.io/webinars/taking-veterans-affairs-to-the-cloud-the-va-care-cloud-project/)" with Rafael M. Richards, MD MS, Architect, Veteran's Affairs Care Cloud, U.S. Department of Veterans Affairs
+
+:strawberry: The rest of the community is quietly working away on their projects. More next week!
+
+## October 28, 2022
+
+:blossom: For LFPH:
+- Upcoming NOV 1 WEBINAR: "[Taking Veterans Affairs to the Cloud: The VA Care Cloud Project](https://bit.ly/3TEZzdz)" (November 1).
+  - Join Rafael M. Richards, MD MS, architect at the Veteran’s Affairs Care Cloud (US Department of Veterans Affairs) for a webinar that dives into the VA’s VISTA Cloud system. The VISTA system serves as the backbone of the VA’s VA-CPRS EHR, conducting over 200 million daily transactions and serving over 380,000 VA staff and 1,500 facilities. The VA-CPRS EHR was the top-rated EHR among physicians in a 2016 EHR comparison conducted by Medscape. [Register here](https://bit.ly/3TEZzdz).
+:hibiscus: For Cardea:
+- Cardea spent time this week reviewing the framework and status of the APIs that are be required for more comprehensive integration and the upcoming Cardea extension use cases (employment and school health information). Planning started for an upcoming webinar series to highlight guest speakers from a variety of healthcare verticals about the challenges communicating heath information and how verifiable credentials could help alleviate those challenges. All are welcome to join these conversations! Keep up to date on the #cardea  channel!
+:herald: For #herald-general:
+The release of Herald was slightly delayed due to a bug on Android, but expect it to be out over the weekend! More updates coming soon.
+
+:bee:The rest of the community is quietly working away on their projects. More next week!
+
+## October 21, 2022
+
+:snow_capped_mountain: For LFPH:
+- OCT 26 WEBINAR: "[The Next Generation of Neuro-Health Data Sharing](https://bit.ly/3VFuHLU)" with Ontario Brain Institute.
+  - Come learn from LFPH member Ontario Brain Institute about Brain-CODE, their neuroinformatics platform for federated data management, sharing and analysis. OBI is based in Canada and fosters a ‘team science’ approach for those living with brain disorders, involving researchers, clinicians, industry, patients, and their advocates. We recommend interested individuals from other health or PH areas to also attend this webinar for inspiration regarding (PHI) data sharing and management! [Register here](https://bit.ly/3VFuHLU).
+- NOV 1 WEBINAR: "[Taking Veterans Affairs to the Cloud: The VA Care Cloud Project](https://bit.ly/3TEZzdz)" (November 1).
+  - Join Rafael M. Richards, MD MS, architect at the Veteran’s Affairs Care Cloud (US Department of Veterans Affairs) for a webinar that dives into the VA’s VISTA Cloud system. The VISTA system serves as the backbone of the VA’s VA-CPRS EHR, conducting over 200 million daily transactions and serving over 380,000 VA staff and 1,500 facilities. The VA-CPRS EHR was the top-rated EHR among physicians in a 2016 EHR comparison conducted by Medscape. [Register here](https://bit.ly/3TEZzdz).
+
+:cityscape: The rest of the community is quietly working away on their projects. More next week!
+
+## October 14, 2022
+
+:hibiscus: For LFPH:
+- NEW WEBINAR WITH US DEPARTMENT OF VETERAN'S AFFAIRS ON CLOUD EHR: "[Taking Veterans Affairs to the Cloud: The VA Care Cloud Project](https://bit.ly/3fXMYUi)" (November 1). Join Rafael M. Richards, MD MS, architect at the Veteran’s Affairs Care Cloud (US Department of Veterans Affairs) for a webinar that dives into the VA’s VISTA Cloud system. The VISTA system serves as the backbone of the VA’s VA-CPRS EHR, conducting over 200 million daily transactions and serving over 380,000 VA staff and 1,500 facilities. The VA-CPRS EHR was the top-rated EHR among physicians in a 2016 EHR comparison conducted by Medscape. More info here: [https://www.lfph.io/webinars/taking-veterans-affairs-to-the-cloud-the-va-care-cloud-project/](https://www.lfph.io/webinars/taking-veterans-affairs-to-the-cloud-the-va-care-cloud-project/)
+
+ :cherries: For #herald-general:
+- Herald news - we’re testing a v2.10-beta4 release for Android and iOS. This includes new callbacks for convenience for app developers that will show when a detected device is confirmed as a herald device, and when a previously detected device has been out of range/detection for some time, and is deleted. It’ll also include a full working preview of the GPDMP (General Purpose Distributed Messaging Protocol) which is to be used for emergency/disaster communication, and in future perhaps for a fully decentralised digital contact tracing system under the OpenTrace v2.0 umbrella. Initial test results for v2.1.0-beta4 show more stability on iOS, better error handling, and improved contact logging in the demo app which we use for calculating efficacy and reliability statistics.
+
+ :helicopter: From #cardea:
+- Cardea spent time reviewing and renaming project agents and the associated repos to reflect the broader use cases (drug testing, employee health requirements and school health requirements). We are off next week and will reconvene on October 27 for a discussion on outreach and APIs.
+:strawberry: The rest of the community is quietly working away on their projects. More next week!
+
+## October 7, 2022
+
+:blossom: For LFPH:
+- NEW WEBINAR: "[The Next Generation of Neuro-Health Data Sharing](https://bit.ly/3T2LbM3)" (October 26). Come learn from LFPH member Ontario Brain Institute about Brain-CODE, their neuroinformatics platform for federated data management, sharing and analysis. OBI is based in Canada and fosters a ‘team science’ approach for those living with brain disorders, involving researchers, clinicians, industry, patients, and their advocates.
+- We recommend interested individuals from other health or PH areas to also attend this webinar for inspiration regarding (PHI) data sharing and management!
+ :sunny: For #tac :
+- If anyone has old iPhones or Android phones dating back from present day to 2011 (i.e. the first Bluetooth Low Energy phones) and want to donate to a good cause, I’d like to collect a much wider range of models for Herald testing. UK/EU ones can be sent to me (DM for address details), Americas and Asia addresses TBD. We want to run a range of new calibration tests for Herald both for digital contact tracing reliability, but also for a new ‘emergency communications system’ for when disasters occur and broadband goes down but people are still travelling around with phones in their pockets. This necessitates a lot more phones than prior. We have about 20 test phones - we need 100+ ideally. So if anyone wants to donate a current or older phones to a good cause that’d be great! A variety of makes and models and OS versions - so please don’t update to the latest before sending! (Please do factory reset them though and remove personal data, and de-register on Android!!!). Thanks!
+- Have a public health technology idea that you're interested in refining or developing? Reach out to #tac and @Adam! Either 15 or 30 minutes presentations are accepted (including Q&A) - can be to introduce or update on an existing project, or another cool project that might be useful to other LFPH projects, or a topic for discussion. E.g. Consent or Privacy. Totally fine if its a first presentation - we’re happy to work with people to prep a presentation!
+
+ :mega: From LFPH members:
+- Hello! One Fact Foundation is a 501(c)(3) nonprofit with a mission to change global health care using open source principles. To accomplish this, we are releasing [ClinicalBERT](https://github.com/kexinhuang12345/clinicalBERT), an algorithm for clinicians that has 300+ citations and is used to predict clinical outcomes.
+- The algorithm uses information from structured and unstructured information in electronic health records.
+- We work with several academic medical centers across the world to continue developing our user experience research approach. The goal is to display predictions from the model about a patient's risk to clinicians, to best help them make decisions that improve health. Paper: [https://arxiv.org/abs/1904.05342](https://arxiv.org/abs/1904.05342)
+- We also work across languages and cultures: I was in Estonia this summer to work with the former CIO (who is on our board) and a team at Tartu University who re-trained this model in Estonian to show it can work for a country with nowhere near the amount of data available in the United States, and still make accurate predictions.
+- Please reach out to me: [jaan@onefact.org](jaan@onefact.org) as we are a new member of Linux Foundation for Public Health and excited to collaborate with you all!! (More on our mission is in the talk I gave at the NIH's [aim-ahead.net](http://aim-ahead.net/) conference recently: [bit.ly/onefact-keynote](http://bit.ly/onefact-keynote))
+
+:blossom: The rest of the community is quietly working away on their projects. More next week!
+
+## September 30, 2022
+
+:crystal_ball: For LFPH:
+- We recently held our latest DITC (Disease Investigation Technology Collaborative) meeting on September 27, discussing an open-source tool for public data releases. Are you a public health agency employee and want to keep ahead of important developments in the public health space as a part of a collaborative community? Sign up for the DITC here: [https://www.lfph.io/ditc/](https://www.lfph.io/ditc/)
+
+ :books: For #tac :
+- Have a public health technology idea that you're interested in refining or developing? Reach out to #tac and @Adam! Either 15 or 30 minutes presentations are accepted (including Q&A) - can be to introduce or update on an existing project, or another cool project that might be useful to other LFPH projects, or a topic for discussion. E.g. Consent or Privacy. Totally fine if its a first presentation - we’re happy to work with people to prep a presentation!
+
+:boat: The rest of the community is quietly working away on their projects. More next week!
+
+## September 23, 2022
+
+:rocket: For LFPH:
+- We held a fantastic webinar earlier this week with experts from the U.S. Centers for Medicare & Medicaid Services (CMS): [Modernizing Healthcare at the Federal Level with Open Source](https://bit.ly/3SxG8TH). Be sure to click the link above to view the recording!
+- We are extremely pleased to welcome three new members to LFPH:
+  - [One Fact Foundation](https://www.linkedin.com/company/onefact)
+  - [HealthDataForGood.org](http://healthdataforgood.org/)
+  - [Ad Hoc](https://adhocteam.us/)
+ :herald: For the Herald Project #herald-general
+- The Herald Project are looking for feedback on a potential eHealth Maker’s Kit. The idea is to garner some of the community device hacking spirit from Arduino and Raspberry Pi and focus that on a low-cost and flexible eHealth platform based on the wearable designs in The Herald Project. Any funds raised through selling the kit could be pushed back into Herald and LFPH to pay for things (E.g. Bluetooth registrations etc.). Can I please ask that this community if you have any Maker’s or STEM teachers/students you know, please forward this link and ask them to leave feedback. Thanks![https://github.com/theheraldproject/herald-hardware/issues/15](https://github.com/theheraldproject/herald-hardware/issues/15)
+
+:helicopter: For #cardea:
+- Cardea spent time as a community reviewing and editing an upcoming blog that will run on the LFPH channels that further explains the expansion of Cardea use cases beyond the initial Covid/travel use case to include employee and student health verification. It was also determined that in order to maximize developer work time between meetings, Cardea community meetings will move to a biweekly meeting cadence and will now fall on the second and fourth Thursday of the month. Stay up to date using [https://lists.lfph.io/g/cardea](https://lists.lfph.io/g/cardea)
+
+:tram: The rest of the community is quietly working away on their projects. More next week!
+
 ## September 16, 2022
 
 :mega: For LFPH and #tac:
