@@ -1,5 +1,23 @@
 # Weekly Updates
 
+## November 25, 2022
+
+:turkey: This week, we have no updates. We wish you a happy holidays!
+
+## November 18, 2022
+
+:herald: For Herald:
+- Herald ran a 24 hour test for a new release, with an eventual release planned shortly!
+
+:snow_capped_mountain: The rest of the community is quietly working away on their projects. More next week!
+
+## November 11, 2022
+
+:crystal_ball: For #cardea:
+- Cardea spent time this week reviewing the current state of Machine Readable Governance, rebranded to Decentralized Ecosystem Governance (DEGov). The group reviewed the new development happening under DIF as well as a demo of backend and front end tools. Cardea will cancel 11/24 due to the US Thanksgiving holiday and will regroup on 12/8.
+
+:star2: The rest of the community is quietly working away on their projects. More next week!
+
 ## November 4, 2022
 
 :apple: For LFPH:
