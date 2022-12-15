@@ -1,5 +1,15 @@
 # Weekly Updates
 
+## December 9, 2022
+
+:rocket: From #cardea:
+Cardea met this week for an in-depth conversation with Cardea community member Kristy Gale, founder & CEO of HONOR Data Rights Management, on the technologies and devices used to collect athlete data and how personal information data privacy relates to the sports community.
+:ship: The rest of the community is quietly working away on their projects. More next week!
+
+## December 2, 2022
+
+:snow_cloud: This week, we have no updates. We wish you a happy holidays!
+
 ## November 25, 2022
 
 :turkey: This week, we have no updates. We wish you a happy holidays!
